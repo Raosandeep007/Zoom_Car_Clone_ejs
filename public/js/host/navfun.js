@@ -1,4 +1,4 @@
-import navbar from "http://localhost:2345/components/nav_ak.js";
+import navbar from "/components/nav_ak.js";
 let navbar_container = document.getElementById("navbar_container");
 
 navbar_container.innerHTML = navbar();
