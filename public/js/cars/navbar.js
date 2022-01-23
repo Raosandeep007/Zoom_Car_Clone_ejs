@@ -1,4 +1,4 @@
-import navbar from "http://localhost:2345/components/nav.js";
+import navbar from "/components/nav.js";
 let navbar_container = document.getElementById("navbar_container");
 navbar_container.innerHTML = navbar();
 
@@ -8,7 +8,7 @@ $(".btn").click(function () {
 });
 
 var pro_name = JSON.parse(localStorage.getItem("info"));
-console.log('pro_name:', pro_name)
+console.log("pro_name:", pro_name);
 
 if (!pro_name || pro_name == undefined) {
   let profile_name = document.getElementById("profile_name");
@@ -45,4 +45,3 @@ if (!pro_name || pro_name == undefined) {
     localStorage.removeItem("info");
   });
 }
-
