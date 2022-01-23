@@ -3,7 +3,7 @@
   padding: 0;
 }
 #future_mobility {
-  background-image: url("http://localhost:2345/img/zoomcar.png");
+  background-image: url("/img/zoomcar.png");
   width: 100%;
   background-size: cover;
   background-position: 50% 75%;
