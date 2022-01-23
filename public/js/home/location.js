@@ -5,5 +5,5 @@ function searchlocation() {
   obj.location = inp;
   arr.push(obj);
   localStorage.setItem("Location", JSON.stringify(arr));
-  window.location.href = "home/MapSearch";
+  window.location.href = "/home/MapSearch";
 }
