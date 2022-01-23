@@ -1,0 +1,71 @@
+body {
+  background-color: rgb(245, 245, 245);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  background-color: white;
+}
+
+#arr {
+  margin-top: 9px;
+  text-decoration: none;
+  color: black;
+}
+#nav {
+  width: 100vw;
+  height: 45px;
+  margin-top: 0px;
+  background-color: rgb(213, 213, 213);
+  position: fixed;
+  display: grid;
+  grid-template-columns: 20px 400px;
+  gap: 10px;
+  color: black;
+  padding-top: 15px;
+  padding-left: 20px;
+}
+#offertag {
+  font-weight: 400;
+  font-size: 22px;
+}
+#container {
+  padding-top: 60px;
+}
+.have {
+  text-align: center;
+  height: 35px;
+  padding-top: 10px;
+  background-color: rgb(193, 193, 193);
+  color: gray;
+  font-weight: 700;
+}
+#input {
+  width: 250px;
+  margin: auto;
+  padding: 20px;
+}
+#apply {
+  background-color: transparent;
+  border: 1px solid gray;
+  border-radius: 3px;
+  font-weight: 600;
+  color: gray;
+  width: 70px;
+  height: 36px;
+  padding: 10px;
+  margin-left: 9px;
+}
+#enter {
+  /* border-bottom: 10px; */
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: rgb(7, 214, 7);
+  height: 28px;
+}
+#offimg {
+  margin: auto;
+  width: 40%;
+  margin-left: 30%;
+}

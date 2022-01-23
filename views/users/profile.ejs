@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      href="https://kit-pro.fontawesome.com/releases/v5.15.4/css/pro.min.css"
+      rel="stylesheet"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@500&family=Open+Sans:wght@500;800&family=Shippori+Antique+B1&family=Source+Sans+3:wght@200&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="http://localhost:2345/css/users/profile.css" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="http://localhost:2345/img/fav.jpg"
+    />
+    <title>Profile Page</title>
+  </head>
+
+  <body>
+    <div class="mainDiv">
+      <div class="container">
+        <div class="left">
+          <div class="image">
+            <i class="fal fa-user-circle"></i>
+          </div>
+
+          <div class="user">
+            <h4 class="name" id="nameside"></h4>
+          </div>
+          <div class="mob">
+            <p class="num" id="mobile"></p>
+          </div>
+          <div class="email">
+            <p class="mail" id="mail"></p>
+          </div>
+          <hr class="hr1" />
+
+          <div class="doc">
+            <div class="error">
+              <img
+                class="errorImg"
+                src="http://localhost:2345/img/error.png"
+                alt="error logo"
+              />
+              <p class="errorText">Profile Document</p>
+            </div>
+
+            <div class="ok">
+              <img
+                class="okImg"
+                src="http://localhost:2345/img/ok.png"
+                alt="ok logo"
+              />
+              <p class="okText">Mobile Number</p>
+            </div>
+
+            <div class="error">
+              <img
+                class="errorImg"
+                src="http://localhost:2345/img/error.png"
+                alt="error logo"
+              />
+              <p class="errorText">Paytem Wallet</p>
+            </div>
+          </div>
+          <hr class="hr1" />
+
+          <div class="z_point">
+            <img
+              class="ZImg"
+              src="http://localhost:2345/img/z_logo.png"
+              alt="Z logo"
+            />
+            <span>
+              <p class="ZText">Z-Points</p>
+            </span>
+            <span>
+              <p class="subText">Install App to use z-points</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+
+          <div class="coins">
+            <img
+              class="coinImg"
+              src="http://localhost:2345/img/coins_logo.png"
+              alt="coin logo"
+            />
+            <span>
+              <p class="coinText">Credits</p>
+            </span>
+            <span>
+              <p class="c_text">Rs. 0</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+
+          <div class="coins">
+            <img
+              class="walletImg"
+              src="http://localhost:2345/img/wallet_logo.png"
+              alt="wallet logo"
+            />
+            <span>
+              <p class="walletText">Paytem Wallet</p>
+            </span>
+            <span>
+              <p class="wallet_text">Link Wallet</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+
+          <div class="book">
+            <span>
+              <p class="booking">My Booking</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+
+          <div class="book">
+            <span>
+              <p class="booking">Saved Cards</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+
+          <div class="book">
+            <span>
+              <p class="booking">Account</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+
+          <div class="book">
+            <span>
+              <p class="booking">Profile Verification</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+
+          <div class="book">
+            <span>
+              <p class="booking">Co-Driver</p>
+            </span>
+          </div>
+          <hr class="hr1" />
+        </div>
+        <!-- *********************************************************************** -->
+        <div class="right">
+          <div class="hd">
+            <h2 class="hd2">MY ACCOUNT</h2>
+          </div>
+          <hr class="hr2" />
+          <div class="Acc_Det">
+            <h3 class="hd3">Account Details</h3>
+          </div>
+          <hr class="hr3" />
+          <div class="divA">
+            <div class="email">Email</div>
+            <div class="email2" id="email2"></div>
+          </div>
+          <div class="divB">
+            <div class="B1">Mobile*</div>
+            <div class="input"><input type="search" id="mobile2" /></div>
+          </div>
+          <div class="Acc_Det">
+            <h3 class="hd4">Personal Details</h3>
+          </div>
+          <hr class="hr4" />
+          <div class="divC">
+            <div class="L">
+              <div class="email">Name*</div>
+              <div class="nm2" id="namemain"></div>
+            </div>
+            <div class="R">
+              <div class="gen">Gender</div>
+              <div class="gendr">
+                <select name="" id="optn">
+                  <option value="select">--</option>
+                  <option value="select">Male</option>
+                  <option value="select">Female</option>
+                </select>
+              </div>
+            </div>
+          </div>
+          <div class="Location">
+            <h3 class="hd5">Location Details</h3>
+          </div>
+          <hr class="hr5" />
+          <div class="smlTxt">
+            <p class="smlText">
+              Please share your current city for optimized experience
+            </p>
+          </div>
+          <div class="cty">
+            <div class="city">City</div>
+            <div class="cities">
+              <select name="" id="optn">
+                <option value="">--</option>
+                <option value="">Bhiwadi</option>
+                <option value="">Mahendergarh</option>
+                <option value="">Banglore</option>
+                <option value="">Pune</option>
+                <option value="">Delhi NCR</option>
+                <option value="">Mumbai</option>
+                <option value="">Chennai</option>
+                <option value="">Hyderabad</option>
+                <option value="">Haryana</option>
+                <option value="">Chandigarh</option>
+                <option value="">Kolkata</option>
+                <option value="">Gurgoan</option>
+                <option value="">Kochi</option>
+                <option value="">Goa</option>
+                <option value="">Mysore</option>
+                <option value="">Nagpur</option>
+              </select>
+            </div>
+          </div>
+          <button class="btn">UPDATE</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
+<script>
+  let data = JSON.parse(localStorage.getItem("info"));
+  let email2 = document.getElementById("email2");
+  email2.innerText = data[0].email;
+  let mail = document.getElementById("mail");
+  mail.innerText = data[0].email;
+
+  let nameside = document.getElementById("nameside");
+  nameside.innerText = data[0].full_name;
+  let mobile = document.getElementById("mobile");
+  mobile.innerText = data[0].mobile;
+
+  let namemain = document.getElementById("namemain");
+  namemain.innerText = data[0].full_name;
+</script>

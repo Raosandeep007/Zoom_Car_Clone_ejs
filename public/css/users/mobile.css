@@ -1,0 +1,44 @@
+#mainDiv {
+    width: 50%;
+    margin: auto;
+    /* border: 2px solid red; */
+  }
+  
+  .heading {
+     font-size: larger;
+     /* margin-left: 10px; */
+  }
+  
+  .fas {
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .btn {
+    margin-top: 250px;
+    width: 50%;
+    border-style: none;
+    background-color: #10a310;
+    border-radius: 5px;
+    color: white;
+    margin-left: 5%;
+    font-size: 18px;
+    height: 39px;
+  }
+  
+  input {
+    width: 60%;
+    height: 56px;
+    border: 1px solid #eeeeee;
+    border-radius: 5px;
+    margin-top: 20px;
+    box-sizing: border-box;
+  }
+  #phone{
+    width:420px; 
+    height:45px;
+    border:1px solid #eeeeee;
+    
+  }
+  

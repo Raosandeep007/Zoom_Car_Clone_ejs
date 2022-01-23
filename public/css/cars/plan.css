@@ -1,0 +1,72 @@
+
+    body {
+      padding: 0px;
+      margin: 0px;
+    }
+    #cross {
+      width: 700px;
+      margin: auto;
+      height: 1000px;
+    }
+    #back {
+      height: 40px;
+      background-color: black;
+      padding-top: 20px;
+      padding-left: 20px;
+    }
+    img {
+      width: 701.5px;
+    }
+    .fas {
+      color: white;
+    }
+
+    #footer {
+      position: fixed;
+      bottom: 0;
+      width: 700px;
+      height: 150px;
+      background-color: white;
+      position: fixed;
+      box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3),
+        0 15px 12px rgba(0, 0, 0, 0.22);
+      margin-left: 410px;
+    }
+    a {
+      text-decoration: none;
+      color: white;
+    }
+    #footerdat {
+      padding-top: 5px;
+      width: 700px;
+      height: 90%;
+    }
+    #ao {
+      margin-top: 5px;
+      display: grid;
+      grid-template-columns: 20% 21%;
+      column-gap: 5%;
+      margin-left: 10%;
+      margin-bottom: 15px;
+    }
+    #ao > div > img {
+      width: 100%;
+      border-radius: 5px;
+    }
+    #ao > #pricepay {
+      border-radius: 5px;
+      border: 1px solid rgb(211, 211, 211);
+    }
+    #checkoutbtn {
+      background-color: green;
+      color: white;
+      border: none;
+      border-radius: 8px;
+      width: 80%;
+      height: 40px;
+      margin-left: 10%;
+    }
+    #coupon {
+      border-radius: 5px;
+      border: 2px solid green;
+    }

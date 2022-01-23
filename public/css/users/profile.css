@@ -1,0 +1,372 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Inter", sans-serif;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Shippori Antique B1", sans-serif;
+  font-family: "Source Sans 3", sans-serif;
+}
+
+.mainDiv {
+  /* border: 2px solid red; */
+  width: 100%;
+  height: 900px;
+  background-color: whitesmoke;
+}
+
+.container {
+  /* border: 2px solid red; */
+  width: 100%;
+  height: 800px;
+  background-color: rgb(235, 235, 235);
+  display: flex;
+}
+
+.left {
+  /* border: 2px solid red; */
+  width: 25%;
+  height: 730px;
+  background-color: white;
+  margin-left: 20px;
+  margin-top: 15px;
+}
+.right {
+  /* border: 2px solid red; */
+  width: 68%;
+  height: 730px;
+  background-color: white;
+  margin-top: 15px;
+  margin-left: 20px;
+}
+
+.image {
+  /* border: 1px solid blue; */
+  height: 120px;
+}
+
+.image .fal {
+  color: rgb(165, 164, 164);
+  position: relative;
+  top: 40px;
+  left: 150px;
+  font-size: 80px;
+  cursor: pointer;
+}
+
+.user {
+  /* border: 1px solid blue; */
+  margin-bottom: 100px;
+}
+
+.name {
+  text-align: center;
+}
+
+.mob {
+  /* border: 1px solid blue; */
+  position: relative;
+  bottom: 95px;
+}
+
+.num {
+  text-align: center;
+  font-size: small;
+  color: gray;
+}
+
+.email {
+  /* border: 1px solid blue; */
+  position: relative;
+  bottom: 95px;
+}
+
+.mail {
+  text-align: center;
+  font-size: small;
+  color: gray;
+}
+.hr1 {
+  position: relative;
+  bottom: 90px;
+  width: 90%;
+  margin: auto;
+}
+
+.doc {
+  /* border: 1px solid blue; */
+  height: 120px;
+  position: relative;
+  bottom: 80px;
+  left: 10px;
+}
+
+.error {
+  display: flex;
+  /* border: 1px solid green; */
+  margin-top: 5px;
+  cursor: pointer;
+}
+
+.errorImg {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.errorText {
+  margin-left: 10px;
+  margin-top: 8px;
+  cursor: pointer;
+}
+
+.ok {
+  display: flex;
+  /* border: 1px solid green; */
+  cursor: pointer;
+}
+
+.okImg {
+  margin-left: 7px;
+  cursor: pointer;
+}
+
+.okText {
+  margin-left: 10px;
+  margin-top: 8px;
+  cursor: pointer;
+}
+
+.z_point {
+  position: relative;
+  bottom: 90px;
+  /* border: 1px solid green; */
+  display: flex;
+  margin-left: 7px;
+  cursor: pointer;
+}
+
+.ZText {
+  margin-left: 2px;
+  margin-top: 17px;
+  cursor: pointer;
+}
+
+.subText {
+  margin-left: 90px;
+  margin-top: 17px;
+  font-size: 15px;
+  cursor: pointer;
+  color: saddlebrown;
+}
+
+.coins {
+  position: relative;
+  bottom: 90px;
+  /* border: 1px solid green; */
+  display: flex;
+  cursor: pointer;
+}
+
+.coinImg {
+  position: relative;
+  left: 3px;
+  cursor: pointer;
+}
+
+.coinText {
+  margin-left: 5px;
+  margin-top: 17px;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.c_text {
+  margin-left: 190px;
+  margin-top: 17px;
+  color: green;
+  font-size: 20px;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.walletImg {
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.walletText {
+  margin-left: 5px;
+  margin-top: 17px;
+  cursor: pointer;
+}
+
+.wallet_text {
+  margin-left: 110px;
+  margin-top: 17px;
+  color: green;
+  font-size: 18px;
+  font-weight: bolder;
+  cursor: pointer;
+}
+
+.book {
+  /* height: 40px; */
+  cursor: pointer;
+}
+
+.booking {
+  position: relative;
+  bottom: 90px;
+  left: 40px;
+  padding: 10px;
+  font-weight: 200;
+}
+
+/* ************************** DIV 2 ******************************************* */
+
+.hd {
+  /* border: 1px solid red; */
+  height: 100px;
+}
+.hd2 {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.hr2 {
+  width: 95%;
+  margin: auto;
+  position: relative;
+  bottom: 60px;
+}
+
+.Acc_Det {
+  /* border: 1px solid red; */
+  height: 100px;
+}
+
+.hd3 {
+  position: relative;
+  bottom: 33px;
+  left: 30px;
+}
+
+.hr3 {
+  width: 95%;
+  margin: auto;
+  position: relative;
+  bottom: 105px;
+}
+
+.divA {
+  /* border: 1px solid red; */
+  height: 200px;
+  display: flex;
+}
+
+.email {
+  margin-left: 30px;
+}
+
+.email2 {
+  position: relative;
+  bottom: 95px;
+  left: 100px;
+}
+
+.divB {
+  display: flex;
+  position: relative;
+  bottom: 250px;
+}
+
+.B1 {
+  margin-left: 30px;
+}
+
+.input {
+  margin-left: 90px;
+  border-radius: 10px;
+}
+.hr4 {
+  width: 95%;
+  margin: auto;
+  position: relative;
+  bottom: 270px;
+}
+.hd4 {
+  position: relative;
+  bottom: 200px;
+  left: 30px;
+}
+
+.divC {
+  /* height: 200px; */
+  /* border: 1px solid red; */
+  display: flex;
+  position: relative;
+  bottom: 160px;
+}
+.nm2 {
+  position: relative;
+  bottom: 115px;
+  left: 160px;
+}
+
+.gen {
+  margin-right: 60px;
+}
+
+.R {
+  display: flex;
+  position: relative;
+  left: 350px;
+  bottom: 90px;
+}
+
+.hr5 {
+  width: 95%;
+  margin: auto;
+  position: relative;
+  bottom: 120px;
+}
+.hd5 {
+  position: relative;
+  bottom: 120px;
+  left: 30px;
+}
+
+.smlTxt {
+  position: relative;
+  bottom: 115px;
+  left: 30px;
+}
+.smlText {
+  font-size: small;
+}
+.cty {
+  display: flex;
+  position: relative;
+  bottom: 90px;
+}
+.city {
+  position: relative;
+  left: 30px;
+}
+.cities {
+  position: relative;
+  left: 150px;
+}
+#optn {
+  width: 150px;
+}
+
+.btn {
+  position: relative;
+  bottom: 60px;
+  left: 420px;
+  width: 150px;
+  height: 40px;
+  background-color: white;
+  font-weight: bolder;
+}

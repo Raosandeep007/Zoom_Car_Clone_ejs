@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/eb173574ae.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Signup here</title>
+    <link rel="stylesheet" href="http://localhost:2345/css/users/singup.css" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="http://localhost:2345/img/fav.jpg"
+    />
+  </head>
+  <body>
+    <div id="mainDiv">
+      <i
+        class="fas fa-arrow-left"
+        onclick="location.href='SignupHome1.html'"
+      ></i>
+      <div id="heading"><h2>Please fill some details</h2></div>
+      <div id="text">One last step to create a new account</div>
+      <form id="form" action="/user/singup_or_login" method="post">
+        <input
+          required
+          type="text"
+          placeholder="Enter full name"
+          id="name"
+          name="full_name"
+        />
+        <input
+          required
+          type="email"
+          placeholder="Enter Email ID"
+          id="email"
+          name="email"
+        />
+        <input
+          required
+          type="number"
+          placeholder="Enter phone number to register..."
+          id="mobile"
+          name="mobile"
+        />
+        <input
+          required
+          type="password"
+          id="password"
+          placeholder="Create password here"
+          name="password"
+        />
+        <input
+          required
+          class="btn"
+          id="btn"
+          type="submit"
+          value="submit button"
+          name="submit"
+        />
+      </form>
+    </div>
+  </body>
+</html>

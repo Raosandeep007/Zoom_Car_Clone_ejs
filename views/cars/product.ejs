@@ -1,0 +1,169 @@
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Self Drive Car Rentals</title>
+    <script
+      src="https://kit.fontawesome.com/368c5c5b09.js"
+      crossorigin="anonymous"
+    ></script>
+    <script src="https://code.jquery.com/jquery-3.4.1.js"></script>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="http://localhost:2345/img/fav.jpg"
+    />
+  </head>
+  <link rel="stylesheet" href="http://localhost:2345/css/cars/product.css" />
+  <body onload="allcars(`<%= JSON.stringify(cars) %>`)">
+    <div id="navbar_container"></div>
+    <div id="container">
+      <div id="filters">
+        <div class="filter-ctr">
+          <div class="headingside">Free kms</div>
+          <div class="have twodiv">
+            <div>
+              <button
+                class="btnside"
+                onclick="freekms(this,`<%= JSON.stringify(cars) %>`)"
+                value="66"
+              >
+                66
+              </button>
+            </div>
+            <div>
+              <button
+                class="btnside"
+                onclick="freekms(this,`<%= JSON.stringify(cars) %>`)"
+                value="132"
+              >
+                132
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="filter-ctr">
+          <div class="headingside">Fuel Cost</div>
+          <div class="have onediv">
+            <div>Not Included</div>
+          </div>
+        </div>
+        <div class="filter-ctr">
+          <div class="headingside">Seats</div>
+          <div class="have thdiv">
+            <div>
+              <button
+                class="btnside"
+                onclick="seats(this,`<%= JSON.stringify(cars) %>`)"
+                value="5"
+              >
+                5
+              </button>
+            </div>
+            <div>
+              <button
+                class="btnside"
+                onclick="seats(this,`<%= JSON.stringify(cars) %>`)"
+                value="6"
+              >
+                6
+              </button>
+            </div>
+            <div>
+              <button
+                class="btnside"
+                onclick="seats(this,`<%= JSON.stringify(cars) %>`)"
+                value="7"
+              >
+                7
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="filter-ctr">
+          <div class="headingside">Car Types</div>
+          <div class="have thdiv">
+            <div>
+              <button
+                class="btnside"
+                onclick="cartypes(this,`<%= JSON.stringify(cars) %>`)"
+                value="SUV"
+              >
+                SUV
+              </button>
+            </div>
+            <div>
+              <button
+                class="btnside"
+                onclick="cartypes(this,`<%= JSON.stringify(cars) %>`)"
+                value="hatchback"
+              >
+                hatchback
+              </button>
+            </div>
+            <div>
+              <button
+                class="btnside"
+                onclick="cartypes(this,`<%= JSON.stringify(cars) %>`)"
+                value="Sedan"
+              >
+                Sedan
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="filter-ctr">
+          <div class="headingside">Transmission</div>
+          <div class="have twodiv">
+            <div>
+              <button
+                class="btnside"
+                onclick="transmission(this,`<%= JSON.stringify(cars) %>`)"
+                value="Manual"
+              >
+                Manual
+              </button>
+            </div>
+            <div>
+              <button
+                class="btnside"
+                onclick="transmission(this,`<%= JSON.stringify(cars) %>`)"
+                value="Automatic"
+              >
+                Automatic
+              </button>
+            </div>
+          </div>
+        </div>
+        <div class="filter-ctr">
+          <div class="headingside">Delivery Type</div>
+          <div class="have twodiv">
+            <div>Home Delivery</div>
+            <div>Airport</div>
+          </div>
+        </div>
+      </div>
+      <div id="right">
+        <div id="add">
+          Delhi NCR . P 803, Pan Oasis Society, Sector 70, Noida, Uttar Pradesh
+          201301, India
+        </div>
+        <div id="date">
+          <div class="toolbar-date" id="datediv">
+            <div id="sta"></div>
+            <i id="datearr" class="fas fa-arrow-right"></i>
+            <div id="end"></div>
+          </div>
+        </div>
+        <div id="carsdiv"></div>
+      </div>
+    </div>
+  </body>
+</html>
+<script src="http://localhost:2345/js/cars/product.js"></script>
+<script type="module" src="http://localhost:2345/js/cars/navbar.js"></script>

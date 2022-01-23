@@ -1,0 +1,168 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Checkout</title>
+    <script
+      src="https://kit.fontawesome.com/368c5c5b09.js"
+      crossorigin="anonymous"
+    ></script>
+    <script
+      src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+      integrity="sha256-4+XzXVhsDmqanXGHaHvgh1gMQKX40OUvDEBTu8JcmNs="
+      crossorigin="anonymous"
+    ></script>
+    <link
+      rel="icon"
+      type="image/png"
+      href="http://localhost:2345/img/fav.jpg"
+    />
+  </head>
+  <link rel="stylesheet" href="http://localhost:2345/css/cars/checkout.css" />
+  <body onload="allcars(`<%= JSON.stringify(car) %>`)">
+    <nav id="nav" class="black">
+      <div>
+        <a href="/cars" class="black"
+          ><i id="arr" class="fas fa-arrow-left"></i
+        ></a>
+      </div>
+      <div id="ndate" class="vis">
+        <div id="carname_div"></div>
+        <div class="toolbar-date" id="datediv">
+          <div id="sta"></div>
+          <i id="datearr" class="fas fa-arrow-left"></i>
+          <div id="end"></div>
+        </div>
+      </div>
+    </nav>
+    <div id="container">
+      <div id="carsdiv"></div>
+      <div id="carstatus">
+        <div id="timestart"></div>
+        <div id="timeend"></div>
+        <div id="fuelstatus">
+          <i class="fas fa-gas-pump"></i>
+          66Kms without Fuel
+        </div>
+        <div id="ratingdivappend"></div>
+        <div id="sanitized">
+          You will get a clean and sanitized car. Exact car location will be
+          shared post-booking
+        </div>
+        <div id="home">
+          <h2>Home Delivery</h2>
+          <div id="hd">
+            <i class="fas fa-car-side"></i>
+            <div id="hp">
+              <h3>Delivery & Pick Up</h3>
+              <p>
+                HD option available for bookings starting at-least 3 hours after
+                the current time
+              </p>
+            </div>
+            <input type="checkbox" id="checkbox" />
+          </div>
+        </div>
+        <div id="aodiv">
+          <h2>Add Ons</h2>
+          <div id="ad">
+            <i class="fas fa-trophy"></i>
+            <div id="adhp">
+              <h3>Become Supermiler Elite for ₹999</h3>
+              <p>
+                Get Benefit of Free Home Delivery, Cancellation and extra
+                Z-Points
+              </p>
+            </div>
+            <input
+              type="checkbox"
+              id="oncheckbox"
+              onclick="addons(this)"
+              value="999"
+            />
+          </div>
+          <div id="addonappen"></div>
+        </div>
+        <div id="aodiv">
+          <h2>Damage Protection Package</h2>
+          <div id="ad">
+            <i class="fab fa-autoprefixer"></i>
+            <div id="adhp">
+              <h3>Standrd (₹74)</h3>
+              <p>you pay up to INR 1499 in case ofany damage</p>
+            </div>
+            <input type="radio" name="btn" id="Rbtn" />
+            <i class="fas fa-bold"></i>
+            <div id="adhp">
+              <h3>Peace of Mind (₹127)</h3>
+              <p>you pay up to INR 249 in case ofany damage</p>
+            </div>
+            <input type="radio" name="btn" id="Rbtn" />
+          </div>
+        </div>
+        <div id="imgdam">
+          <img src="http://localhost:2345/img/damage.png" alt="" />
+        </div>
+        <div id="aodiv">
+          <h2>Keep In Mind</h2>
+          <div id="adpolicy">
+            <i class="far fa-id-badge"></i>
+            <div id="adhp">
+              <h3>Driving License Mandatory</h3>
+              <p></p>
+            </div>
+          </div>
+          <div id="adpolicy">
+            <i class="fas fa-gas-pump"></i>
+            <div id="adhp">
+              <h3>Fare & Fuel Policy</h3>
+              <p>
+                Fare is inclusive of all taxes. Excess charge ₹8/km. Kindly
+                return the car at the same fuel level as the trip
+              </p>
+            </div>
+          </div>
+          <div id="adpolicy">
+            <i class="fas fa-car"></i>
+            <div id="adhp">
+              <h3>Cancellation Policy</h3>
+              <p>Hassle free cancellations and refunds at nominal charges</p>
+            </div>
+          </div>
+          <div id="adpolicybox">
+            <i class="fas fa-handshake"></i>
+            <div id="adhp">
+              <h3>Agreement Policy</h3>
+              <p>
+                I hereby agree to the terms and conditions of the Lease
+                Agreement with Host
+              </p>
+            </div>
+            <input
+              type="checkbox"
+              id="checkboxapply"
+              onclick="activebtn(this)"
+            />
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div id="footer" class="nav-down">
+      <div id="footerdat">
+        <div id="ao">
+          <div id="pricepay"></div>
+          <div id="coupon">
+            <a href="#" onclick="couponapply()">Apply Coupon</a>
+          </div>
+        </div>
+        <button id="checkoutbtn" disabled="disabled" onclick="fare_summary()">
+          CHECKOUT SUMMARY
+        </button>
+      </div>
+    </div>
+  </body>
+</html>
+<script src="http://localhost:2345/js/cars/checkout.js"></script>

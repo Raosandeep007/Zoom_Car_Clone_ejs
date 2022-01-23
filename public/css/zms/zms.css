@@ -1,0 +1,461 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+#future_mobility {
+  background-image: url("http://localhost:2345/img/zoomcar.png");
+  width: 100%;
+  background-size: cover;
+  background-position: 50% 75%;
+  background-repeat: repeat-x;
+  margin: auto;
+
+  height: 750px;
+}
+
+#zoomcar {
+  width: 120px;
+  height: 26px;
+  margin-left: 20%;
+  padding-top: 20px;
+}
+#demo {
+  width: 130px;
+  height: 17px;
+  margin-left: 40%;
+  text-align: center;
+  margin-top: 20px;
+  color: black;
+  background-color: azure;
+  font-size: large;
+
+  padding: 12px;
+  border-radius: 16px;
+  border: none;
+  text-decoration: none;
+}
+#top_icon {
+  display: flex;
+}
+#headigz {
+  /* border:1px solid red; */
+  height: 200px;
+  width: 50%;
+  margin: auto;
+  margin-top: 13%;
+}
+#headigz > a {
+  text-decoration: none;
+}
+#IPM {
+  /* border:1px solid white; */
+  width: 85%;
+  height: 50%;
+  font-size: 38px;
+  font-weight: bolder;
+  color: whitesmoke;
+  margin: auto;
+  text-align: center;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+#BW {
+  /* border:1px solid white; */
+  width: 70%;
+  height: 22%;
+  font-size: 16px;
+  line-height: 24px;
+  color: whitesmoke;
+  margin: auto;
+  text-align: center;
+  margin-top: 25px;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+#RD {
+  /* border:1px solid white; */
+  width: 29%;
+  height: 12%;
+  border-radius: 4px;
+  font-size: 19px;
+  font-weight: bolder;
+  color: whitesmoke;
+  margin: auto;
+  text-align: center;
+  margin-top: 40px;
+  padding: 10px;
+  background-color: rgb(16, 163, 16);
+  border: none;
+  position: relative;
+}
+#greenline {
+  width: 100%;
+  height: 18px;
+  background-color: rgb(16, 163, 16);
+  margin-bottom: 5%;
+}
+#offer_tag {
+  font-size: 35px;
+  font-weight: bold;
+  margin-left: 38%;
+}
+#twobutton {
+  display: flex;
+  border: 1px solid lightsteelblue;
+  width: 900px;
+  height: 50px;
+  margin: auto;
+  padding: 5px;
+  margin-top: 40px;
+  border-radius: 6px;
+}
+#twobutton > button {
+  width: 800px;
+  height: 50px;
+  font-size: larger;
+  border: none;
+  border-radius: 6px;
+}
+#btn1 {
+  background-color: rgb(16, 163, 16);
+}
+#slideshow_div {
+  background-color: rgb(236, 236, 237);
+  width: 1000px;
+  height: 850px;
+  margin: auto;
+  padding-top: 30px;
+}
+#parag {
+  /* border:1px solid red; */
+  width: 600px;
+  height: 70px;
+  margin: auto;
+  padding: 15px;
+}
+#parag > p {
+  text-align: center;
+  font-size: 19px;
+  color: dimgray;
+  margin-bottom: 20px;
+}
+#slideshow_img {
+  /* border:1px solid blue; */
+  width: 85%;
+  height: 350px;
+  margin: auto;
+  margin-bottom: 30px;
+}
+#slideshow_img > img {
+  width: 100%;
+  height: 100%;
+}
+#zoomcar_features {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 30px 20px;
+  padding: 40px;
+  margin-top: -1%;
+}
+
+.labelnames {
+  font-size: 16px;
+  line-height: 2px;
+  text-align: center;
+  font-weight: 550;
+  margin: auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+.paranames {
+  margin-top: 10px;
+  font-size: 16px;
+  line-height: 24px;
+  color: dimgray;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+#features {
+  font-size: 20px;
+  font-weight: bold;
+  color: darkslategrey;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  margin-left: 4%;
+}
+#more_details {
+  border: 1px solid solid;
+  width: 200px;
+  height: 40px;
+  background-color: rgb(16, 163, 16);
+  color: white;
+  border: none;
+  text-align: center;
+  font-size: 15px;
+  margin-left: 4%;
+}
+#nested_div_green {
+  /* border:1px solid blue; */
+  width: 100%;
+  height: 450px;
+  background-color: rgb(16, 163, 16);
+  border-radius: 5px;
+  margin-top: 8%;
+}
+#nested_div_white {
+  /* border:1px solid red; */
+  margin: auto;
+  width: 70%;
+  height: 620px;
+  margin-top: 4%;
+  border-radius: 5px;
+  background-color: rgb(246, 246, 247);
+  display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 10px;
+  padding: 40px;
+}
+#why {
+  color: white;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 35px;
+  font-weight: 600;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+#xyz {
+  /* border:1px solid yellow; */
+  height: 1000px;
+}
+.img_logos {
+  width: 35px;
+  height: 35px;
+}
+.boxes {
+  /* border:1px solid black; */
+  width: 270px;
+  height: 180px;
+  padding: 10px;
+}
+#all_vehicles {
+  width: 70%;
+  height: 480px;
+  /* border:1px solid red; */
+  margin-top: -19%;
+  margin: auto;
+}
+#granite {
+  width: 100%;
+  height: 585px;
+  /* border:1px solid black; */
+
+  background-image: url("https://www.zoomcar.com/assets/component-images/rectangle.e2190cd211f285fb86e5c7809c0f7b42.jpg");
+}
+#granite_grid {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  /* border:1px solid red; */
+  width: 55%;
+  height: 580px;
+  gap: 10px;
+  margin: auto;
+}
+.grid_boxes {
+  /* border:1px solid white; */
+  background-color: rgb(31, 31, 31);
+  border-radius: 6px;
+  color: white;
+  width: 200px;
+  height: 250px;
+  gap: 10px;
+  padding-left: 20px;
+}
+#trackrecord {
+  color: black;
+  text-align: center;
+  padding-top: 30px;
+  font-size: 35px;
+  font-weight: 600;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+#proven_record {
+  color: rgb(31, 31, 31);
+  text-align: center;
+  /* border:1px solid blue; */
+  width: 33%;
+  margin: auto;
+  padding-top: 10px;
+  padding-bottom: 30px;
+  font-size: 15px;
+  font-weight: 600;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+.img_logoz {
+  /* border:1px solid white; */
+  padding-left: 20px;
+  padding-top: 20px;
+  width: 50px;
+  height: 50px;
+  margin-bottom: 10%;
+}
+
+.labelnamez {
+  /* border:1px solid white; */
+  font-size: 20px;
+  font-weight: 550;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+#fill_form {
+  /* border:1px solid green; */
+  width: 40%;
+  height: 700px;
+  padding-left: 11%;
+  margin: auto;
+  margin-top: 25%;
+}
+/* input{
+            width:
+        } */
+#submitx_form {
+  padding: 12px 33.7px 12px 34px;
+  border: none;
+  border-radius: 4px;
+  background-color: #10a310;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.14;
+  letter-spacing: normal;
+  text-align: center;
+  color: #fff;
+  min-width: 220px;
+  outline: none;
+  opacity: 0.5;
+  cursor: not-allowed;
+
+  margin: auto;
+  margin-top: 6%;
+  margin-left: 19%;
+}
+
+.input_tags {
+  border: none;
+  font-family: IBM Plex Sans;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.24px;
+  color: #666;
+  position: relative;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  background-color: #fff;
+  width: 32%;
+  padding: 16px 12px;
+  outline: none;
+  text-align: left;
+  padding-left: 10px;
+  margin: center;
+}
+.email_tags {
+  border: none;
+  font-family: IBM Plex Sans;
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 400;
+  letter-spacing: 0.24px;
+  color: #666;
+  position: relative;
+  border-radius: 4px;
+  border: 1px solid #e0e0e0;
+  background-color: #fff;
+  width: 72%;
+  padding: 16px 12px;
+  outline: none;
+  text-align: left;
+  padding-left: 10px;
+  margin: center;
+}
+.name_company {
+  display: flex;
+}
+
+#connect_tag {
+  /* border:1px solid red; */
+  margin: auto;
+  margin-bottom: 6%;
+  width: 50%;
+  color: rgb(31, 31, 31);
+  margin-left: 8%;
+}
+#leave_details {
+  /* border:1px solid black; */
+  margin: auto;
+  margin-bottom: 10%;
+  font-size: 18px;
+  width: 79%;
+  text-align: center;
+  margin-left: -30px;
+  line-height: 24px;
+}
+#GR {
+  /* border:1px solid white; */
+  background-color: green;
+  width: 100%;
+  height: 20px;
+  margin-top: 20%;
+}
+#BL {
+  /* border:1px solid white; */
+  background-color: rgb(31, 31, 31);
+  width: 100%;
+  height: 380px;
+  color: white;
+
+  padding-top: 5%;
+}
+#footer_div {
+  /* border:1px solid white; */
+  width: 30%;
+  height: 300px;
+  margin: auto;
+  margin-top: 20px;
+  color: floralwhite;
+}
+#footer_img {
+  /* border:1px solid white; */
+  width: 130px;
+  height: 30px;
+  margin: auto;
+  margin-bottom: 8%;
+}
+.footer_labels {
+  text-align: center;
+  /* border:1px solid white; */
+  padding: 5px;
+  font-size: 18px;
+  margin-top: 12%;
+  line-height: 30px;
+  margin-bottom: 15%;
+}
+#last_tag {
+  border: white;
+  margin: auto;
+  font-weight: lighter;
+  font-size: 18px;
+  text-align: center;
+  color: silver;
+}
+#contact_me {
+  font-weight: lighter;
+  font-size: 18px;
+}
+#mail_me {
+  font-weight: bolder;
+  font-size: 20px;
+}

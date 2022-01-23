@@ -1,0 +1,44 @@
+#mainDiv {
+  width: 50%;
+  margin: auto;
+  /* border: 2px solid red; */
+}
+
+.heading {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  font-size: larger;
+  font: bolder;
+  /* margin-left: 10px; */
+}
+
+.text1 {
+  margin-top: 10px;
+  font-size: 5px;
+}
+
+.fas {
+  cursor: pointer;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+input {
+  width: 60%;
+  height: 54px;
+  border: 1px solid #eeeeee;
+  border-radius: 5px;
+  margin-top: 20px;
+  box-sizing: border-box;
+}
+
+.btn {
+  margin-top: 40px;
+  width: 50%;
+  background-color: #10a310;
+  border-style: none;
+  height: 39px;
+  color: white;
+  font-size: 19px;
+  border-radius: 5px;
+}

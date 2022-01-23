@@ -1,0 +1,53 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#mainDiv{
+    /* border: 2px solid red; */
+    width: 50%;
+    height: 300px;
+    margin: auto;
+}
+
+.fas {
+    cursor: pointer;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+
+.heading{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  line-height: 24px;
+  color: #1f1f1f;
+  letter-spacing: 0.16px;
+  margin-top: 20px;
+  font-size: 18px;
+  }
+  .smltxt{
+      position: relative;
+      bottom: 75px;
+      font-size: 12px;
+  }
+
+  .otp {
+    width: 60%;
+    height: 54px;
+    border: 1px solid #eeeeee;
+    border-radius: 5px;
+    margin-top: 30px;
+    box-sizing: border-box;
+  }
+
+  .btn{
+    cursor: pointer;
+    background-color: #10a310;
+    margin-top: 250px;
+    width: 60%;
+    height: 40px;
+    font-size: 19px;
+    border-style: none;
+    margin-left: 12px;
+    color: white;
+    border-radius: 5px;
+  }

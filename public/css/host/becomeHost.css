@@ -1,0 +1,701 @@
+
+#pagebox{
+    width: 100%;
+
+}
+
+/* below nav bar image css */
+    .cardcontainer{
+        /* border: 1px solid blue; */
+        margin-left: 7%;
+        width: 90%;
+        height: 450px;
+        /* margin-top: 6%; */
+    }
+    .cardcontainer .card_img{
+        /* border: 1px solid black; */
+        width: 100%;
+
+    }
+    .cardcontainer .image_text{
+        color: white;
+        margin-left: 5%;
+        margin-top: 5%;
+        line-height: 3px;
+        font-size: 40px;
+    }
+    .cardcontainer #card_text1{
+        color: white;
+        margin-top: 5%;
+        margin-left: 5%;
+        line-height: 0.1px;
+        font-size: 14px;
+    }
+    .cardcontainer .card_text2{
+        color: white;
+        margin-top: 2%;
+        margin-left: 5%;
+        line-height: 0.1px;
+        font-size: 14px;
+    }
+    .cardcontainer #imagebutton{
+        width: 15%;
+        height: 60px;
+        margin-left: 4%;
+        margin-top: 1%;
+    }
+
+    /* zoom mp4 video css starts here*/
+    #videofile{
+        /* border: 1px solid red; */
+        width: 91%;
+        height: 430px;
+        /* margin-top: 2%; */
+        margin-left: 6%;
+    }
+
+    .box2 {
+        /* border: 1px solid green; */
+        width: 50%;
+        height: 350px;
+        /* margin-left: 5%; */
+        margin-top: 2%;
+    }
+    .box2 #img{
+        /* border: 1px solid black; */
+        width: 50%;
+        height: 350px;
+    }
+
+    /* below the zoomcarimage texts css */
+    .para{
+        /* border: 1px solid red; */
+        width: 75%;
+        margin-top: 5%;
+        margin-left: 16%;
+        
+    }
+    .para h5{
+        font-size: 40px;
+        /* font-family: IBM Plex Sans; */
+    }
+    .para #line2{
+        font-size: 40px;
+        text-align: center;
+    }
+
+    
+    /* image along with the texts css */
+    .box3 {
+        /* border: 1px solid blue; */
+        width: 75%;
+        margin-left: 16%;
+        height: 260px;
+        display: flex;
+        margin-top: 5%;
+        
+    }
+    .inner_box1 {
+    /* border: 1px solid black; */
+    width: 50%;
+    }
+    .box3 .inner_box2 {
+        /* border: 1px solid green; */
+        width: 50%;
+        margin-left: 8%;
+    }
+    .inner_box1 p {
+        font-size: 16px;
+        /* font-family: IBM Plex Sans; */
+        /* color: grey; */
+    }
+
+    .inner_box2 img {
+        width: 100%;
+        /* border: 1px solid red; */
+    }
+    .inner_box3 img {
+        width: 100%;
+        /* border: 1px solid green; */
+    }
+    .inner_box4 {
+    /* border: 1px solid black; */
+    width: 56%;
+    margin-left: 8%;
+    }
+    .box3 .inner_box3 {
+        /* border: 1px solid blue; */
+        width: 50%;
+        /* margin-left: 8%; */
+    }
+
+    /* one line text css */
+    .para1 {
+        /* border: 1px solid black; */
+        width: 50%;
+        margin-left: 10%;
+        margin-top: 10%;
+    }
+ 
+    /* image slider with scroll bar */
+    #parabox{
+        /* border: 1px solid red; */
+        height: 450px;
+        width: 80%;
+        margin-left: 11%;
+        margin-top: 2%;
+        overflow-x: auto;
+        overflow-y: hidden;
+        white-space: nowrap;
+    }
+
+    #parabox .paraminibox {
+        display: inline-block;
+        /* border: 1px solid greenyellow; */
+        width: 33%;
+        margin-left: 1%;
+    }
+
+    .paraminibox p {
+        font-family: IBM Plex Sans;
+    }
+    .paraminibox h4{
+        font-family: IBM Plex Sans;
+        font-size: 18px;
+    }
+    
+    #parabox p{
+        font-size: 16px;
+        font-family: IBM Plex Sans;
+        line-height: 80%;
+        color: rgb(102, 102, 102);
+    }
+
+    /* one line text growing rapidly */
+    #para1 {
+        /* border: 1px solid blue; */
+        width: 60%;
+    }
+    #para1 h4{
+        font-size: 42px;
+    }
+    #para1 p{
+        font-size: 20px;
+        font-family: IBM Plex Sans;
+        color: grey;
+    }
+
+    /* vertical image below the image slider */
+    #container {
+        /* border: 1px solid red; */
+        width: 83%;
+        height: 600px;
+        margin-left: 10%;
+        margin-top: 4%;
+    }
+
+    /* #container #para2 {
+        border: 1px solid black;
+    } */
+    .para1_box{
+        /* border: 1px solid blue; */
+        width: 23%;
+        height: 300px;
+        /* margin-top: 1%; */
+        display: inline-block;
+    }
+
+    .para1_imgbox {
+        /* border: 1px solid red; */
+        width: 25%;
+        height: 85px;
+        margin-left: 35%;
+        margin-top: 5%;
+    }
+    .para1_imgbox img{
+        width: 100%;
+    }
+
+    .para1_box h4 {
+        text-align: center;
+    }
+
+    .para1_box h4 {
+        text-align: center;
+        color: grey;
+        font-size: 18px;
+    }
+
+    #para2 .line {
+        display: inline-block;
+        border: 1px solid white;
+        background-color: grey;
+        width: 5px;
+        height: 245px;
+        margin-top: 1%;
+    }
+
+    
+    #container #para2 {
+        /* border: 1px solid black; */
+        margin-top: 1%;
+        margin-left: 3%;
+        width: 95%;
+        height: 320px;
+    }
+
+    /* calculator and popup */
+    #calculator{
+        /* border: 1px solid red; */
+        height: 270px;
+        width: 70%;
+        margin-left: 10%;
+        margin-top: 1%;
+        /* background-color: dimgray; */
+    }
+    #calculator p{
+        font-size: 28px;
+    }
+
+    #calculator h1{
+        font-size: 48px;
+    }
+
+    #startearning_btn {
+        width: 20%;
+        background-color: rgb(16, 163, 16);
+        height: 17%;
+    }
+
+    #calculator button h3{
+        font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    }
+
+    #calculator h6 a{
+        color: rgb(16, 163, 16);
+        font-size: 18px;
+    }
+
+    #estimatepop{
+        /* border: 1px solid blue; */
+        margin-left: 10%;
+        /* margin-top: 2%; */
+        width: 22%;
+    } 
+
+    #estimatepop h5{
+        font-size: 17px;
+    }
+
+    #referEarn{
+        /* border: 1px solid red; */
+        width: 83%;
+        height: 520px;
+        margin-left: 7%;
+        margin-top: 3%;
+        border-radius: 3%;
+        color: #383838;
+        /* background-color: rgb(56, 56, 56); */
+    }
+
+    #referEarn #innerbox{
+        display: inline-block;
+        /* border: 1px solid blue; */
+        width: 100%;
+        /* border-radius: 3%; */
+        /* height: 280px; */
+        /* margin-top: 3%;
+        margin-left: 3%; */
+    }
+
+    #image #img{
+        border-radius: 3%;
+    }
+    
+    #image img{
+        /* border: 1px solid blue; */
+        width: 100%;
+    }
+
+    #animation {
+        /* border: 1px solid red; */
+        margin-left: 7%;
+        margin-top: 1%;
+        width: 83%;
+        height: 450px;
+        background-color: rgb(245, 245, 245);
+    }
+
+    #animation #text{
+        border: 1px solid rgb(245,245,245);
+        margin-top: 3%;
+        width: 87%;
+        margin-left: 7%;
+    }
+    #animation h1{
+        font-size:40px;
+        margin-top: 7%;
+    }
+
+    #animation #video{
+        margin-left: 8%;
+        margin-top: 3%;
+        width: 90%;
+        height: 200px;
+    }
+
+    /* refer and earn popup css */
+    #modalbox {
+        /* border: 1px solid red; */
+        width: 87%;
+        height: 380px;
+        overflow-y: scroll;
+        margin-left: 12%;
+    }
+
+    #exampleModalCenterTitle{
+        font-size: 24px;
+        margin-left: 13%;
+        margin-top: 2%;
+    }
+
+    #modalheading{
+        /* border: 1px solid green; */
+        width: 70%;
+        height: 110px;
+    }
+
+    #modalheading .modalheading1{
+        color: rgb(102, 102, 102);
+        font-family: IBM Plex Sans;
+        font-size: 15px;
+    }
+
+    #modalimage{
+        /* border: 1px solid black; */
+        width: 70%;
+        height: 230px;
+    }
+
+    #modalimage img{
+        width: 100%;
+        border-radius: 3%;
+    }
+
+    #logo{
+        /* border: 1px solid red; */
+        width: 70%;
+        height: 130px;
+        /* margin-left: 5%; */
+        margin-top: 1%;
+    }
+
+    #logo .logobox1{
+        display: inline-block;
+        /* border: 1px solid blue; */
+        width: 20%;
+        height: 130px;
+        margin-left: 4%;
+    }
+
+    .logobox1 h5{
+        font-size: 12;
+        color: rgb(31, 31, 31);
+    }
+    #logo .logobox2 {
+        display: inline-block;
+        /* border: 1px solid green; */
+        width: 20%;
+        height: 130px;
+        margin-left: 3%;
+    }
+
+    .logobox1 img{
+        margin-left: 20%;
+    }
+
+    .logobox2 img{
+        margin-left: 20%;
+    }
+
+
+    /* how do we estimate your earning pop up css */
+    #modalbox1{
+        /* border: 1px solid red; */
+        width: 92%;
+        height: 350px;
+        /* overflow-y: scroll; */
+        margin-left: 7%;
+    }
+
+    #CenterTitle{
+        /* border: 1px solid green; */
+        font-size: 24px;
+        color: rgb(31, 31, 31);
+    }
+    #modalbox1 #firstbox{
+        /* border: 1px solid green; */
+        height: 20%;
+    }
+
+    #firstbox .icon{
+        float: left;
+        /* border: 1px solid black; */
+        width: 10%;
+        height: 50px;
+        margin-top: 1%;
+        margin-left: 2%;
+    }
+    #firstbox .icon_content{
+        /* border: 1px solid blue; */
+        margin-top: 2%;
+        margin-left: 17%;
+        width: 70%;
+        height: 75px;
+    }
+    #firsticon{
+       margin: auto;
+    }
+
+    .icon_content .data{
+        color: rgb(102, 102, 102);
+        font-family: IBM Plex Sans;
+        font-size: 14px;
+    }
+
+    #modalbox1 #secondbox{
+        /* border: 1px solid green; */
+        margin-top: 2%;
+        height: 20%;
+    }
+
+    #secondbox .icon2{
+        float: left;
+        /* border: 1px solid black; */
+        width: 10%;
+        height: 50px;
+        margin-top: 1%;
+        margin-left: 2%;
+    }
+    #secondbox .icon_content2{
+        /* border: 1px solid blue; */
+        margin-top: 2%;
+        margin-left: 17%;
+        width: 75%;
+        height: 95px;
+    }
+    #secondicon{
+        margin: auto;
+     }
+     .icon_content2 .data{
+        color: rgb(102, 102, 102);
+        font-family: IBM Plex Sans;
+        font-size: 14px;
+    }
+
+    #thirdbox{
+        /* border: 1px solid red; */
+        /* margin-top: 0.7%; */
+        height: 27%;
+        width: 60%;
+        margin-left: 17%;
+    }
+
+    #thirdbox li{
+        font-size: 14px;
+        color: rgb(102, 102, 102);
+        font-family: IBM Plex Sans;
+    }
+
+    #modalbox1 #fourthbox{
+        /* border: 1px solid green; */
+        height: 20%;
+    }
+
+    #fourthbox .icon3{
+        float: left;
+        /* border: 1px solid black; */
+        width: 10%;
+        height: 50px;
+        margin-top: 1%;
+        margin-left: 2%;
+    }
+    #fourthbox .icon_content3{
+        /* border: 1px solid blue; */
+        margin-top: 2%;
+        margin-left: 15%;
+        width: 75%;
+        height: 95px;
+    }
+    #fourthicon{
+       margin: auto;
+    }
+
+    .icon_content3 .data{
+        color: rgb(102, 102, 102);
+        font-family: IBM Plex Sans;
+        font-size: 14px;
+    }
+
+    /* below start dropdown content part */
+
+    #contentdropdown{
+        display: inline-block;
+        /* border: 1px solid red; */
+        margin-top: 4%;
+        margin-left: 7%;
+        width: 83%;
+        height: 350px;
+    }
+
+    #contentdropdown #headingpart {
+        position:absolute;
+        /* display: inline-block; */
+        /* border: 2px solid black; */
+        width: 26%;
+        height: 400px;
+    }
+
+    #headingpart .headingcontent{
+        font-size: 42px;
+        color: rgb(31, 31, 31);
+        line-height: 40px;
+    }
+    #contentdropdown #clickdrop{
+        /* border: 1px solid green; */
+        width: 66%;
+        height: 400px;
+        margin-left: 33%;
+    }
+
+    .box1{
+        display: flex;
+        /* border: 1px solid red; */
+        width: 98%;
+        height: 40px;
+        margin-top: 1%;
+        /* font-size: 25px; */
+    }
+    .box2{
+        display: flex;
+        /* border: 1px solid black; */
+        width: 98%;
+        height: 0px;
+        overflow: hidden;
+        transition: 0.5s;
+    }
+
+    .box2 p{
+        margin-top: 2%;
+    }
+    .line{
+        border: 1px solid grey;
+        background-color: rgb(245, 245, 245);
+        /* margin-top: 1%; */
+    }
+    .minibox{
+        display: flex;
+        /* border: 1px solid black; */
+        width: 98%;
+        
+        height: 0px;
+        overflow: hidden;
+        transition: 0.5s;
+    }
+
+    .minibox p{
+        margin-top: 1%;
+    }
+
+    #displayoff{
+    /* display: none; */
+        transition: 0.5s;
+    }
+
+    #clickdrop{
+    /* display: inline-block; */
+    /* border: 1px solid green; */
+    width: 66%;
+    height: 700px;
+    margin-left: 33%;
+}
+
+.topcontentbox{
+    
+    color: rgb(31, 31, 31);
+    font-family: IBM Plex Sans;
+    font-size: 16px;
+}
+
+.bottomcontentbox{
+    /* border: 1px solid blue; */
+    width: 98%;
+    height: auto;
+    color: rgb(102, 102, 102);
+    font-family: IBM Plex Sans;
+    font-size: 14px;
+    line-height: 22%;
+}
+/* .bottomcontentbox2{
+    border: 1px solid blue;
+    width: 98%;
+    height: 50px;
+    color: rgb(102, 102, 102);
+    font-family: IBM Plex Sans;
+    font-size: 22px;
+    line-height: 20%;
+} */
+
+.modal-dialog {
+    height: 400px;
+}
+
+#calmain{
+    /* border: 1px solid red; */
+    height: 500px;
+}
+
+.modal-header h4{
+    margin-top: 3%;
+    font-size: 40px;
+}
+
+#mainform #dropbox1{
+    height: 80px;
+}
+
+#mainform #dropbox2{
+    height: 80px;
+    margin-top: 4%;
+}
+
+#calmain #scrollbox1 {
+    /* border: 1px solid greenyellow; */
+    height: 22%;
+    margin-top: 5%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    /* padding: 15%; */
+    white-space: nowrap;
+}
+
+.modalbuttons{
+    height: 60px;
+    width: 15%;
+    margin-top: 1%;
+    margin-left: 2%;
+}
+
+#calmain #priceselector{
+    /* border: 1px solid blue; */
+    margin-top: 3.5%;
+    height: 60px;
+}
+
+/* #formControlRange{
+    height: 300px;
+} */
+.form-control-range{
+    height: 3rem;
+    background-color: #b6d4fe;
+}

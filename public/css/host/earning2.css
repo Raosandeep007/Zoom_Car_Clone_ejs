@@ -1,0 +1,250 @@
+#outermainbox{
+    /* border: 2px solid black; */
+  }
+  
+  #container {
+    /* border: 1px solid red; */
+    width: 80%;
+    height: 1190px;
+    margin-left: 10%;
+    /* margin-top: 10%; */
+  }
+  
+  #container #topcontentbox {
+    border: 1px solid rgb(245, 245, 245);
+    /* border: 2px solid blue; */
+    margin-top: 1%;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(245, 245, 245);
+  }
+  
+  #topcontentbox h2 {
+    font-family: IBM Plex Sans;
+    margin-top: 5%;
+  }
+  
+  #topcontentbox p {
+    font-family: IBM Plex Sans;
+    margin-top: 1%;
+    font-size: 23px;
+    color: rgb(102, 102, 102);
+  }
+  
+  .image {
+    /* border: 1px solid green; */
+    width: 95%;
+    height: 100px;
+    margin-left: 1%;
+    margin-top: 4%;
+  }
+  
+  .image img {
+    width: 100%;
+  }
+  .inputbox {
+    width: 263%;
+    height: 100px;
+    margin-top: 8%;
+    border: 3px solid rgb(16, 163, 16);
+    border-color: rgb(16, 163, 16);
+    /* border-style: none; */
+    /* border-radius: 2%; */
+    font-size: 25px;
+    color: grey;
+    forced-color-adjust: none;
+  }
+  
+  #coupon {
+    border: 2px solid black;
+    height: 98px;
+    width: 80%;
+    margin-left: 138%;
+    /* margin-bottom: 10%; */
+    margin-top: 8%;
+    background-color: rgb(16, 163, 16);
+  }
+  
+  /* .coupon h3 {
+    color: rgb(255, 255, 255);
+  } */
+  
+  #mainbox .container1 {
+    /* border: 1px solid blue; */
+    margin-top: 2%;
+    margin-left: 4%;
+    width: 90%;
+    height: 200px;
+  }
+  
+  .container1 #minibox1 {
+    float: left;
+    /* border: 1px solid red; */
+    width: 47%;
+    height: 100px;
+  }
+  #minibox1 h5 {
+    font-size: 14px;
+    font-family: IBM Plex Sans;
+    color: rgb(168, 168, 168);
+  }
+  
+  .container1 #minibox2 {
+    float: right;
+    /* border: 1px solid black; */
+    width: 48%;
+    height: 100px;
+    margin-top: 1%;
+    /* margin-bottom: 5%; */
+  }
+  
+  #minibox2 h5 {
+    font-family: IBM Plex Sans;
+    color: rgb(168, 168, 168);
+    font-size: 21px;
+  }
+  #inputbox {
+    width: 103%;
+    height: 100px;
+    /* margin-bottom: 25%; */
+    margin: auto;
+    /* margin-right: 50px; */
+    font-size: 17px;
+    border: 3px solid rgb(16, 163, 16);
+    border-color: rgb(16, 163, 16);
+  }
+  
+  .input {
+    border: 1px solid green;
+    margin-top: 6%;
+    width: 100%;
+    height: 100px;
+    border-radius: 5%;
+  }
+  
+  #clickbox {
+    /* border: 1px solid green; */
+    margin-top: 3%;
+    margin-left: 4%;
+    width: 90%;
+    height: 450px;
+  }
+  
+  #clickbox .clickbox1 {
+    /* border: 2px solid blue; */
+    width: 100%;
+    height: 300px;
+  }
+  
+  #clickbox .clickbox2 {
+    /* display: flex; */
+    /* border: 2px solid orangered; */
+    width: 100%;
+    /* margin-top: 5%; */
+    height: 140px;
+    /* margin-left: 10%; */
+  }
+  
+  #clickbox .heading {
+    /* float: left; */
+    /* display: inline; */
+    /* border: 2px solid blue; */
+    margin-top: 1%;
+    width: 100%;
+    height: 75px;
+  }
+  
+  .heading .text {
+    /* border: 2px solid black; */
+    float: left;
+    width: 50%;
+    height: 70px;
+    color: rgb(102, 102, 102);
+    font-family: IBM Plex Sans;
+  }
+  .heading #text1{
+    /* border: 2px solid red; */
+    float: right;
+    width: 50%;
+    height: 70px;
+    color: rgb(102, 102, 102);
+    font-family: IBM Plex Sans;
+  }
+  label {
+    font: 1rem "Fira Sans", sans-serif;
+    font-size: 30px;
+  }
+  
+  input {
+    font-family: IBM Plex Sans;
+    margin: 2%;
+    color: rgb(56, 56, 56);
+  }
+  
+  #radio_container1{
+    /* border: 2px solid green; */
+    float: left;
+    width: 50%;
+    height: 200px;
+  }
+  #radio_container2{
+    /* border: 2px solid orangered; */
+    float: right;
+    width: 50%;
+    height: 200px;
+  }
+  .size {
+    margin-top: 5%;
+    /* border: 2px solid yellow; */
+    width: 2em;
+    height: 2em;
+  }
+  
+  .clickbox2 .bottombox1 {
+    float: left;
+    /* border: 2px solid black; */
+    width: 50%;
+    height: 120px;
+  }
+  
+  .clickbox2 .bottombox2{
+    float: right;
+    /* border: 2px solid red; */
+    width: 50%;
+    height: 120px;
+  }
+  
+  #namebox {
+    margin-left: 13%;
+  }
+  
+  .data {
+    margin-left: 13%;
+  }
+  
+  
+  #mainform {
+    /* border: 1px solid rgb(66, 7, 7); */
+    margin-top: 3%;
+  }
+  
+  .value {
+    font-size: 30px;
+    /* overflow-y: scroll; */
+  }
+  
+  .button {
+    /* border: 1px solid green; */
+    border-radius: 5%;
+    width: 15%;
+    height: 30px;
+    /* margin-top: 2%; */
+    height: 50px;
+    background-color: rgb(16, 163, 16);
+    margin-left: 80%;
+  }
+  
+  .button h3 {
+    color: azure;
+  }
+  

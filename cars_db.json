@@ -1,0 +1,4593 @@
+[{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcdc"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 138,
+    "car_id": 17066,
+    "name": "Dzire (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 1.100000023841858,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "1.1 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 895",
+      "revenue": 895
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 14,722 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcdd"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 147,
+    "car_id": 16406,
+    "name": "Wagon R",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 1.899999976158142,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "1.9 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 825",
+      "revenue": 825
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 45,550 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcde"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 168,
+    "car_id": 18328,
+    "name": "Ignis",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4424e7d205d37feda22e11b4465031a5b54cad5c.JPG?1622187205",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4424e7d205d37feda22e11b4465031a5b54cad5c.JPG?1622187205",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 2.799999952316284,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "2.8 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,089",
+      "revenue": 1089
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 3,284 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcdf"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 132,
+    "car_id": 18244,
+    "name": "Swift",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 3,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "3.0 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 878",
+      "revenue": 878
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 700 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce0"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 221,
+    "car_id": 15937,
+    "name": "Ertiga",
+    "brand": "Maruti",
+    "url": "https://imgd.aeplcdn.com/0x0/n/cw/ec/35211/ertiga-exterior-right-front-three-quarter-141878.jpeg",
+    "url_large": "https://imgd.aeplcdn.com/0x0/n/cw/ec/35211/ertiga-exterior-right-front-three-quarter-141878.jpeg",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 3,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "3.0 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,146",
+      "revenue": 1146
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 17,654 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce2"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 175,
+    "car_id": 17704,
+    "name": "KUV 100",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 3.9000000953674316,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "3.9 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,324",
+      "revenue": 1324
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "6 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 18,437 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce3"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 113,
+    "car_id": 17444,
+    "name": "Kwid",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 4,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.0 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 661",
+      "revenue": 661
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 29,468 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce4"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 143,
+    "car_id": 18275,
+    "name": "Tigor",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/55cf48c3aca88c14b839a360411dfe0dcc761c5a.jpg?1618911344",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/55cf48c3aca88c14b839a360411dfe0dcc761c5a.jpg?1618911344",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 4.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.2 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,437",
+      "revenue": 1437
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 23,623 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce5"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 170,
+    "car_id": 15274,
+    "name": "Creta",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/f3121bab5e720266c0ef441edfde8a915fd14d10.JPG?1622273072",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/f3121bab5e720266c0ef441edfde8a915fd14d10.JPG?1622273072",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 4.599999904632568,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.6 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,006",
+      "revenue": 1006
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.8 (10) · 20,840 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce6"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 186,
+    "car_id": 17787,
+    "name": "I20",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d214904b8ea2db5eee94b476923ecb49e47c37a5.JPG?1624540855",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d214904b8ea2db5eee94b476923ecb49e47c37a5.JPG?1624540855",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 4.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.7 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,172",
+      "revenue": 1172
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 17,736 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce8"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 184,
+    "car_id": 16422,
+    "name": "ALTROZ",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bf11b6a57ae2f1ef5b3f309c2d996fb324c6eb3f.JPG?1624082585",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bf11b6a57ae2f1ef5b3f309c2d996fb324c6eb3f.JPG?1624082585",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.0 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 715",
+      "revenue": 715
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (12) · 7,231 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbce9"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 182,
+    "car_id": 16261,
+    "name": "Jazz SV",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/fd92e3998a840b8544df97c446a48c87c662b6d8.JPG?1623643752",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/fd92e3998a840b8544df97c446a48c87c662b6d8.JPG?1623643752",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 5.099999904632568,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.1 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 735",
+      "revenue": 735
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (8) · 18,028 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcea"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 262,
+    "car_id": 18351,
+    "name": "S-Presso",
+    "brand": "Maruti",
+    "url": "https://images.carandbike.com/car-images/colors/maruti-suzuki/s-presso/maruti-suzuki-s-presso-metallic-granite-grey.png?v=1569830074",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/ac591d5918033dc833a3adc273dfbcd7c4d56cb1.JPG?1633013887",
+    "location": {
+      "id": 1608,
+      "lat": 28.702083,
+      "lng": 77.420459,
+      "distance": 5.300000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.3 km Raj Nagar Extension Ghaziabad"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 774",
+      "revenue": 774
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 15,379 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbceb"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 225,
+    "car_id": 16877,
+    "name": "WR-V",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/172a8fdf9b3d60cca7c8058a1de3d68f8ab203e6.JPG?1629696608",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/172a8fdf9b3d60cca7c8058a1de3d68f8ab203e6.JPG?1629696608",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 5.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.7 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 884",
+      "revenue": 884
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 10,984 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcec"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 66,
+    "car_id": 16436,
+    "name": "Brezza",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6a75117e054e7d3bbe9ff6e431008679994c1d71.png?1584525114",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6a75117e054e7d3bbe9ff6e431008679994c1d71.png?1584525114",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 5.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.8 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,160",
+      "revenue": 1160
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 24,209 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcee"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 200,
+    "car_id": 15855,
+    "name": "Swift Dzire",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d10744a3ba2e066859e9114e3101d7b847a0a43e.JPG?1638612841",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d10744a3ba2e066859e9114e3101d7b847a0a43e.JPG?1638612841",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 5.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.9 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 882",
+      "revenue": 882
+    },
+    "accessories": [
+      "Automatic",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (5) · 20,834 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcef"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 219,
+    "car_id": 17991,
+    "name": "Grand i10 Sportz",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/0a3b1c26daab8edd2d6737f164e3e29d46967287.JPG?1629206794",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/0a3b1c26daab8edd2d6737f164e3e29d46967287.JPG?1629206794",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 6,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.0 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,428",
+      "revenue": 1428
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 13,027 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf0"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 189,
+    "car_id": 17397,
+    "name": "Zest",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/546e492e1a7eea0ec6c017a235367ff271da4111.JPG?1625028879",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/546e492e1a7eea0ec6c017a235367ff271da4111.JPG?1625028879",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 6.099999904632568,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.1 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 856",
+      "revenue": 856
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 14,788 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf1"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 68,
+    "car_id": 17403,
+    "name": "Nexon",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/a8c9309fefc057459e0955d0a5f54340b7cd7bcb.png?1584524824",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/a8c9309fefc057459e0955d0a5f54340b7cd7bcb.png?1584524824",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 6.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.2 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,114",
+      "revenue": 1114
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 55,831 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf2"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 134,
+    "car_id": 16641,
+    "name": "Tiago",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "location": {
+      "id": 2704,
+      "lat": 28.634952,
+      "lng": 77.422683,
+      "distance": 6.599999904632568,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.6 km Crossings republic - Ghaziabad"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 670",
+      "revenue": 670
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 6,719 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf4"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 197,
+    "car_id": 17588,
+    "name": "Ciaz",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/0f9289bfae8401465ba95cca701e3732cc7b4022.JPG?1626670687",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/0f9289bfae8401465ba95cca701e3732cc7b4022.JPG?1626670687",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 7,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.0 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 996",
+      "revenue": 996
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 12,694 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf5"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 276,
+    "car_id": 16101,
+    "name": "Sonet HTX",
+    "brand": "KIA",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/e2bf7149f2e508fdfc7779516b8da7a2e3cd5303.JPG?1634198715",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/e2bf7149f2e508fdfc7779516b8da7a2e3cd5303.JPG?1634198715",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 8.399999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.4 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 881",
+      "revenue": 881
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (8) · 8,351 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf6"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 384,
+    "car_id": 17775,
+    "name": "Safari Strome EX 4X2",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6cca75c3d29f2afd9fb62c4f818311bb9977bf1b.JPG?1637050416",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6cca75c3d29f2afd9fb62c4f818311bb9977bf1b.JPG?1637050416",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 8.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.8 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,434",
+      "revenue": 1434
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (5) · 43,047 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf7"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 140,
+    "car_id": 17081,
+    "name": "i10 (Petrol)",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/631c1b22de8d8f093532a79c49a4f946c0f1be16.jpg?1617166791",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/631c1b22de8d8f093532a79c49a4f946c0f1be16.jpg?1617166791",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 8.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.8 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 698",
+      "revenue": 698
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 24,461 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcf8"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 191,
+    "car_id": 16626,
+    "name": "Figo",
+    "brand": "Ford",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/3bf7649c2df0514040ce86c781467daf2082f3b7.JPG?1625921612",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/3bf7649c2df0514040ce86c781467daf2082f3b7.JPG?1625921612",
+    "location": {
+      "id": 2704,
+      "lat": 28.634952,
+      "lng": 77.422683,
+      "distance": 9,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.0 km Crossings republic - Ghaziabad"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 700",
+      "revenue": 700
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 25,437 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcfa"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 250,
+    "car_id": 17892,
+    "name": "Kiger",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/574035634d512b92d02dbd20c6d456f3370fa7d9.JPG?1632117366",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/574035634d512b92d02dbd20c6d456f3370fa7d9.JPG?1632117366",
+    "location": {
+      "id": 2704,
+      "lat": 28.634952,
+      "lng": 77.422683,
+      "distance": 9.100000381469727,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.1 km Crossings republic - Ghaziabad"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,502",
+      "revenue": 1502
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 3,013 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcfb"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 378,
+    "car_id": 18548,
+    "name": "Tiago XZA+",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/63c2df78e5ab3e2b5a6f1f9f77ab0fa2e3faa5d5.JPG?1638530909",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/63c2df78e5ab3e2b5a6f1f9f77ab0fa2e3faa5d5.JPG?1638530909",
+    "location": {
+      "id": 2704,
+      "lat": 28.634952,
+      "lng": 77.422683,
+      "distance": 9.600000381469727,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.6 km Crossings republic - Ghaziabad"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 994",
+      "revenue": 994
+    },
+    "accessories": [
+      "Automatic",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 8,535 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcfc"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 2,
+    "car_id": 9399,
+    "name": "Scorpio",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,006",
+      "revenue": 1006
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (26) · 12,463 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcfd"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 69,
+    "car_id": 9460,
+    "name": "Swift AT",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b181fa4f49687de9d7e7b7a23f736d202cf2bbff.png?1584514541",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b181fa4f49687de9d7e7b7a23f736d202cf2bbff.png?1584514541",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 753",
+      "revenue": 753
+    },
+    "accessories": [
+      "Automatic",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (31) · 42,564 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbcfe"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 19,
+    "car_id": 7061,
+    "name": "Swift",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d7ba329c386c0331e896bae1e3285ef7d3f23972.png?1584526043",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d7ba329c386c0331e896bae1e3285ef7d3f23972.png?1584526043",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 732",
+      "revenue": 732
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (23) · 97,141 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbd00"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 38,
+    "car_id": 5480,
+    "name": "i20",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/607783cab6ab10a0e86cceac90c3dd1b44fc2036.png?1584525625",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/607783cab6ab10a0e86cceac90c3dd1b44fc2036.png?1584525625",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 777",
+      "revenue": 777
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.8 (33) · 97,432 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbd01"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 109,
+    "car_id": 13837,
+    "name": "Polo (Petrol)",
+    "brand": "Volkswagen",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/3c27eb2fceef983951ce88fd79e65f63277912ee.png?1584524051",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/3c27eb2fceef983951ce88fd79e65f63277912ee.png?1584524051",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 705",
+      "revenue": 705
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (25) · 21,024 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbd02"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 60,
+    "car_id": 7686,
+    "name": "Tiago",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/afbbd294908b76c7f715b2cd814d4448d83134cf.JPG?1638531177",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/afbbd294908b76c7f715b2cd814d4448d83134cf.JPG?1638531177",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 688",
+      "revenue": 688
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (22) · 82,497 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbd03"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 137,
+    "car_id": 17010,
+    "name": "Baleno (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 10,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.0 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 724",
+      "revenue": 724
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 13,595 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbd04"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 246,
+    "car_id": 18238,
+    "name": "XUV300 W8",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/84ff6cb8985ccb3157b2264ef7eae5951a37d375.JPG?1631869242",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/84ff6cb8985ccb3157b2264ef7eae5951a37d375.JPG?1631869242",
+    "location": {
+      "id": 2704,
+      "lat": 28.634952,
+      "lng": 77.422683,
+      "distance": 10.100000381469727,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.1 km Crossings republic - Ghaziabad"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,732",
+      "revenue": 1732
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 30,397 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbd06"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 120,
+    "car_id": 16611,
+    "name": "Nexon",
+    "brand": "Tata",
+    "url": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg?q=85",
+    "url_large": "https://imgd.aeplcdn.com/1280x720/n/cw/ec/41645/tata-nexon-right-front-three-quarter3.jpeg?q=85",
+    "location": {
+      "id": 2704,
+      "lat": 28.634952,
+      "lng": 77.422683,
+      "distance": 10.100000381469727,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.1 km Crossings republic - Ghaziabad"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,064",
+      "revenue": 1064
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 12,093 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61e7e1989796f20ebcecbd07"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 176,
+    "car_id": 16610,
+    "name": "Triber",
+    "brand": "Renault",
+    "url": "https://mcmscache.epapr.in/post_images/website_300/post_14179756/thumb.jpg",
+    "url_large": "https://mcmscache.epapr.in/post_images/website_300/post_14179756/thumb.jpg",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 11,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "11.0 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 853",
+      "revenue": 853
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 11,102 kms driven",
+        "icon_url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f1"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 187,
+    "car_id": 20160,
+    "name": "Go T",
+    "brand": "Datsun",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/be42214f352c5a08a093fc4fcc0b564faf5cef52.JPG?1624596495",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/be42214f352c5a08a093fc4fcc0b564faf5cef52.JPG?1624596495",
+    "location": {
+      "id": 787,
+      "lat": 28.631497,
+      "lng": 77.2201,
+      "distance": 1.7000000476837158,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "1.7 km Connaught Place, New Delhi"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 847",
+      "revenue": 847
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 42,206 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f2"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 138,
+    "car_id": 20047,
+    "name": "Dzire (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "location": {
+      "id": 787,
+      "lat": 28.631497,
+      "lng": 77.2201,
+      "distance": 1.899999976158142,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "1.9 km Connaught Place, New Delhi"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,154",
+      "revenue": 1154
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 4,782 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f3"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 147,
+    "car_id": 18322,
+    "name": "Wagon R",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "location": {
+      "id": 787,
+      "lat": 28.631497,
+      "lng": 77.2201,
+      "distance": 2,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "2.0 km Connaught Place, New Delhi"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,131",
+      "revenue": 1131
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 11,723 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f4"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 176,
+    "car_id": 18220,
+    "name": "Triber",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c5d25b436da0aeb9ca1c25c86d8e85a1e9115aaf.JPG?1623135458",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c5d25b436da0aeb9ca1c25c86d8e85a1e9115aaf.JPG?1623135458",
+    "location": {
+      "id": 254,
+      "lat": 28.641382,
+      "lng": 77.223128,
+      "distance": 3.4000000953674316,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "3.4 km New Delhi Railway Station"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,024",
+      "revenue": 1024
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (6) · 18,136 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f5"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 176,
+    "car_id": 16439,
+    "name": "Triber",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c5d25b436da0aeb9ca1c25c86d8e85a1e9115aaf.JPG?1623135458",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c5d25b436da0aeb9ca1c25c86d8e85a1e9115aaf.JPG?1623135458",
+    "location": {
+      "id": 254,
+      "lat": 28.641382,
+      "lng": 77.223128,
+      "distance": 3.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "3.5 km New Delhi Railway Station"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 941",
+      "revenue": 941
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (12) · 6,189 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f7"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 172,
+    "car_id": 19312,
+    "name": "Brezza Petrol",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/949dc9a40773b57605d8675a2052e1cd9358e8c4.JPG?1622543556",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/949dc9a40773b57605d8675a2052e1cd9358e8c4.JPG?1622543556",
+    "location": {
+      "id": 787,
+      "lat": 28.631497,
+      "lng": 77.2201,
+      "distance": 3.700000047683716,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "3.7 km Connaught Place, New Delhi"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,344",
+      "revenue": 1344
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 10,677 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f8"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 138,
+    "car_id": 17033,
+    "name": "Dzire (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "location": {
+      "id": 254,
+      "lat": 28.641382,
+      "lng": 77.223128,
+      "distance": 4.300000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.3 km New Delhi Railway Station"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,170",
+      "revenue": 1170
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (12) · 27,767 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7f9"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 56,
+    "car_id": 20802,
+    "name": "Creta",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/20070f9f819b45a90da8e67f51b2d76b59e6c8e7.png?1584525395",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/20070f9f819b45a90da8e67f51b2d76b59e6c8e7.png?1584525395",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 4.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.7 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,327",
+      "revenue": 1327
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 20,209 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7fa"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 134,
+    "car_id": 19626,
+    "name": "Tiago",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 4.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.7 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,071",
+      "revenue": 1071
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 8,859 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7fb"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 238,
+    "car_id": 17340,
+    "name": "Freestyle",
+    "brand": "Ford",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/efcf60b6077239c4932d740bf404b5bbd788a735.JPG?1631162691",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/efcf60b6077239c4932d740bf404b5bbd788a735.JPG?1631162691",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 4.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.9 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,115",
+      "revenue": 1115
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 28,650 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7fd"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 113,
+    "car_id": 15742,
+    "name": "Kwid",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 4.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "4.9 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 894",
+      "revenue": 894
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (14) · 18,330 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7fe"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 144,
+    "car_id": 16438,
+    "name": "Amaze 1.2V",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c1c7c50920ee5554049b8e2811630a667f5eef2d.jpg?1619086336",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c1c7c50920ee5554049b8e2811630a667f5eef2d.jpg?1619086336",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.0 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,039",
+      "revenue": 1039
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (9) · 33,957 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d7ff"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 134,
+    "car_id": 19354,
+    "name": "Tiago",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 5.099999904632568,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.1 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,069",
+      "revenue": 1069
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 40,161 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d800"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 176,
+    "car_id": 18837,
+    "name": "Triber",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c5d25b436da0aeb9ca1c25c86d8e85a1e9115aaf.JPG?1623135458",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c5d25b436da0aeb9ca1c25c86d8e85a1e9115aaf.JPG?1623135458",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 5.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.2 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,040",
+      "revenue": 1040
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 3,766 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d801"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 184,
+    "car_id": 20901,
+    "name": "ALTROZ",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bf11b6a57ae2f1ef5b3f309c2d996fb324c6eb3f.JPG?1624082585",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bf11b6a57ae2f1ef5b3f309c2d996fb324c6eb3f.JPG?1624082585",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 5.300000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.3 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,324",
+      "revenue": 1324
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 7,949 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d803"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 172,
+    "car_id": 19711,
+    "name": "Brezza Petrol",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/949dc9a40773b57605d8675a2052e1cd9358e8c4.JPG?1622543556",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/949dc9a40773b57605d8675a2052e1cd9358e8c4.JPG?1622543556",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 5.400000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.4 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,122",
+      "revenue": 1122
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 8,705 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d804"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 32,
+    "car_id": 20815,
+    "name": "KUV 100",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/ab63c8691611d6cded9645f890b541b2b1e5b39b.png?1584525869",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/ab63c8691611d6cded9645f890b541b2b1e5b39b.png?1584525869",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 5.400000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.4 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,163",
+      "revenue": 1163
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 4,332 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d805"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 165,
+    "car_id": 20117,
+    "name": "Eon",
+    "brand": "Hyundai",
+    "url": "https://imgd.aeplcdn.com/664x374/n/mq9vnra_1420176.jpg?q=85",
+    "url_large": "https://imgd.aeplcdn.com/664x374/n/mq9vnra_1420176.jpg?q=85",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 5.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.5 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 796",
+      "revenue": 796
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 25,343 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d806"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 133,
+    "car_id": 19886,
+    "name": "Verna",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/8ceecf356071adc2cf90beb3877b3e14b77031a6.jpg?1615961701",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/8ceecf356071adc2cf90beb3877b3e14b77031a6.jpg?1615961701",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 5.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.5 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,363",
+      "revenue": 1363
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 54,927 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d807"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 179,
+    "car_id": 18430,
+    "name": "Mobilio",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/8078ff3213ea672fd0b9216f72aec3060a6fd93b.JPG?1623224760",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/8078ff3213ea672fd0b9216f72aec3060a6fd93b.JPG?1623224760",
+    "location": {
+      "id": 254,
+      "lat": 28.641382,
+      "lng": 77.223128,
+      "distance": 5.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.5 km New Delhi Railway Station"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 958",
+      "revenue": 958
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.8 (6) · 55,337 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d809"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 32,
+    "car_id": 18685,
+    "name": "KUV 100",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/ab63c8691611d6cded9645f890b541b2b1e5b39b.png?1584525869",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/ab63c8691611d6cded9645f890b541b2b1e5b39b.png?1584525869",
+    "location": {
+      "id": 254,
+      "lat": 28.641382,
+      "lng": 77.223128,
+      "distance": 5.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.8 km New Delhi Railway Station"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,179",
+      "revenue": 1179
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 14,534 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d80a"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 175,
+    "car_id": 19176,
+    "name": "KUV 100",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "location": {
+      "id": 254,
+      "lat": 28.641382,
+      "lng": 77.223128,
+      "distance": 5.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "5.9 km New Delhi Railway Station"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,135",
+      "revenue": 1135
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "6 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 10,282 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d80b"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 137,
+    "car_id": 20769,
+    "name": "Baleno (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 6,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.0 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,231",
+      "revenue": 1231
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 9,578 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d80c"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 140,
+    "car_id": 19227,
+    "name": "i10 (Petrol)",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/631c1b22de8d8f093532a79c49a4f946c0f1be16.jpg?1617166791",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/631c1b22de8d8f093532a79c49a4f946c0f1be16.jpg?1617166791",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 6,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.0 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,099",
+      "revenue": 1099
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 12,161 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d80d"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 208,
+    "car_id": 16116,
+    "name": "City",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/73df93edaf19fd1bab3d070a126b3dd583992c6e.jpg?1640671149",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/73df93edaf19fd1bab3d070a126b3dd583992c6e.jpg?1640671149",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 6,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.0 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 915",
+      "revenue": 915
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (15) · 70,243 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d80f"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 239,
+    "car_id": 19016,
+    "name": "Ciaz Hybrid",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/caa0d4f0258c7da7e005a54df6eb930001af567b.JPG?1631171816",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/caa0d4f0258c7da7e005a54df6eb930001af567b.JPG?1631171816",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 6.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.2 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,350",
+      "revenue": 1350
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 51,847 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d810"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 184,
+    "car_id": 16241,
+    "name": "ALTROZ",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bf11b6a57ae2f1ef5b3f309c2d996fb324c6eb3f.JPG?1624082585",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bf11b6a57ae2f1ef5b3f309c2d996fb324c6eb3f.JPG?1624082585",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 6.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.2 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,226",
+      "revenue": 1226
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 6,738 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d811"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 141,
+    "car_id": 19779,
+    "name": "Celerio (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/67ff26f4a0d5658901058b411ef69896b763d646.jpg?1640674355",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/67ff26f4a0d5658901058b411ef69896b763d646.jpg?1640674355",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 6.400000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.4 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,102",
+      "revenue": 1102
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 11,569 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d812"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 148,
+    "car_id": 19372,
+    "name": "Redi-GO",
+    "brand": "Datsun",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/505efec88be6f25bb3ffabbd6c6107629c88e169.jpg?1621260721",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/505efec88be6f25bb3ffabbd6c6107629c88e169.jpg?1621260721",
+    "location": {
+      "id": 328,
+      "lat": 28.628916,
+      "lng": 77.275504,
+      "distance": 6.400000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.4 km Laxmi Nagar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 894",
+      "revenue": 894
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 38,298 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d813"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 147,
+    "car_id": 16280,
+    "name": "Wagon R",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "location": {
+      "id": 261,
+      "lat": 28.590959,
+      "lng": 77.296874,
+      "distance": 6.400000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.4 km Mayur_Vihar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,007",
+      "revenue": 1007
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (9) · 6,692 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d815"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 175,
+    "car_id": 16105,
+    "name": "KUV 100",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 6.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.5 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 901",
+      "revenue": 901
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "6 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (15) · 29,555 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d816"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 137,
+    "car_id": 16187,
+    "name": "Baleno (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 6.599999904632568,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.6 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,118",
+      "revenue": 1118
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (12) · 9,633 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d817"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 134,
+    "car_id": 18097,
+    "name": "Tiago",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/19eca74a7982804ba713dd9485861a7543422115.JPG?1638531037",
+    "location": {
+      "id": 6130,
+      "lat": 28.609317,
+      "lng": 77.13698,
+      "distance": 6.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.7 km Delhi_Cantonment"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 958",
+      "revenue": 958
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 13,358 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d818"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 132,
+    "car_id": 19186,
+    "name": "Swift",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "location": {
+      "id": 261,
+      "lat": 28.590959,
+      "lng": 77.296874,
+      "distance": 6.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.8 km Mayur_Vihar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 973",
+      "revenue": 973
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 51,975 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d819"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 144,
+    "car_id": 20613,
+    "name": "Amaze 1.2V",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c1c7c50920ee5554049b8e2811630a667f5eef2d.jpg?1619086336",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c1c7c50920ee5554049b8e2811630a667f5eef2d.jpg?1619086336",
+    "location": {
+      "id": 261,
+      "lat": 28.590959,
+      "lng": 77.296874,
+      "distance": 6.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.8 km Mayur_Vihar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,252",
+      "revenue": 1252
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 15,986 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d81b"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 132,
+    "car_id": 19270,
+    "name": "Swift",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 6.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.8 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 927",
+      "revenue": 927
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.8 (9) · 8,669 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d81c"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 132,
+    "car_id": 20340,
+    "name": "Swift",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4f978e418417cef5f069be1c013ee75b34c294ce.png?1613648724",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 6.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.9 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,100",
+      "revenue": 1100
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 10,998 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d81d"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 113,
+    "car_id": 18694,
+    "name": "Kwid",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "location": {
+      "id": 213,
+      "lat": 28.649903,
+      "lng": 77.123406,
+      "distance": 6.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "6.9 km Rajouri Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 974",
+      "revenue": 974
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (7) · 17,797 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d81e"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 137,
+    "car_id": 20527,
+    "name": "Baleno (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d748d92c90c3b84a32f4115da1e5bd3f3f352937.jpg?1615958311",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 7,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.0 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,227",
+      "revenue": 1227
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 21,954 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d81f"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 113,
+    "car_id": 17646,
+    "name": "Kwid",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6b6934b244bef5a3fdef3976171b05cb3fec155e.JPG?1638530676",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 7,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.0 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 845",
+      "revenue": 845
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.6 (8) · 54,593 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d821"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 147,
+    "car_id": 20342,
+    "name": "Wagon R",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/57b1b1b9180a56fba0156135ea6dc8e9f058303d.jpg?1621260558",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 7.099999904632568,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.1 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,071",
+      "revenue": 1071
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 14,134 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d822"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 2,
+    "car_id": 18695,
+    "name": "Scorpio",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 7.300000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.3 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,592",
+      "revenue": 1592
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 36,707 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d823"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 140,
+    "car_id": 19600,
+    "name": "i10 (Petrol)",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/631c1b22de8d8f093532a79c49a4f946c0f1be16.jpg?1617166791",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/631c1b22de8d8f093532a79c49a4f946c0f1be16.jpg?1617166791",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 7.400000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.4 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 925",
+      "revenue": 925
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 30,430 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d824"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 384,
+    "car_id": 20669,
+    "name": "Safari Strome EX 4X2",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6cca75c3d29f2afd9fb62c4f818311bb9977bf1b.JPG?1637050416",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6cca75c3d29f2afd9fb62c4f818311bb9977bf1b.JPG?1637050416",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 7.400000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.4 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,327",
+      "revenue": 1327
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 50,620 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d825"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 175,
+    "car_id": 16379,
+    "name": "KUV 100",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/7ba5c42f243f8b813b8f1eea44432747c4d632d5.JPG?1623069010",
+    "location": {
+      "id": 213,
+      "lat": 28.649903,
+      "lng": 77.123406,
+      "distance": 7.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.5 km Rajouri Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,052",
+      "revenue": 1052
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "6 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (10) · 34,215 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d827"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 384,
+    "car_id": 17775,
+    "name": "Safari Strome EX 4X2",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6cca75c3d29f2afd9fb62c4f818311bb9977bf1b.JPG?1637050416",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6cca75c3d29f2afd9fb62c4f818311bb9977bf1b.JPG?1637050416",
+    "location": {
+      "id": 26907,
+      "lat": 28.639188,
+      "lng": 77.28685,
+      "distance": 7.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.7 km Nirman Vihar EDMC Parking (Near Metro Station)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,380",
+      "revenue": 1380
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.6 (20) · 48,582 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d828"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 19,
+    "car_id": 19328,
+    "name": "Swift",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d7ba329c386c0331e896bae1e3285ef7d3f23972.png?1584526043",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d7ba329c386c0331e896bae1e3285ef7d3f23972.png?1584526043",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 7.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.9 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 909",
+      "revenue": 909
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 56,744 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d829"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 186,
+    "car_id": 19774,
+    "name": "I20",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d214904b8ea2db5eee94b476923ecb49e47c37a5.JPG?1624540855",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d214904b8ea2db5eee94b476923ecb49e47c37a5.JPG?1624540855",
+    "location": {
+      "id": 261,
+      "lat": 28.590959,
+      "lng": 77.296874,
+      "distance": 7.900000095367432,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "7.9 km Mayur_Vihar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,275",
+      "revenue": 1275
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 20,669 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d82a"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 168,
+    "car_id": 21025,
+    "name": "Ignis",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4424e7d205d37feda22e11b4465031a5b54cad5c.JPG?1622187205",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/4424e7d205d37feda22e11b4465031a5b54cad5c.JPG?1622187205",
+    "location": {
+      "id": 337,
+      "lat": 28.706629,
+      "lng": 77.190706,
+      "distance": 8,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.0 km Model Town"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,022",
+      "revenue": 1022
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 6,604 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d82b"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 135,
+    "car_id": 15879,
+    "name": "Celerio AT",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bb5d7ad99cf9ee445440a652489069fb17d0712e.jpg?1640674410",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bb5d7ad99cf9ee445440a652489069fb17d0712e.jpg?1640674410",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 8,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.0 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 732",
+      "revenue": 732
+    },
+    "accessories": [
+      "Automatic",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (11) · 57,629 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d82d"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 138,
+    "car_id": 19676,
+    "name": "Dzire (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/524fda673d85d7affc94f9c54ddb2ed1219d3a4d.JPG?1638612892",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 8.100000381469727,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.1 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,219",
+      "revenue": 1219
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 320 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d82e"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 186,
+    "car_id": 18689,
+    "name": "I20",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d214904b8ea2db5eee94b476923ecb49e47c37a5.JPG?1624540855",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d214904b8ea2db5eee94b476923ecb49e47c37a5.JPG?1624540855",
+    "location": {
+      "id": 261,
+      "lat": 28.590959,
+      "lng": 77.296874,
+      "distance": 8.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.2 km Mayur_Vihar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,243",
+      "revenue": 1243
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (7) · 25,761 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d82f"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 183,
+    "car_id": 18855,
+    "name": "Go Plus",
+    "brand": "Datsun",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d4f137a56d1bcbf2a8f976b5029685d095425930.JPG?1623737903",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d4f137a56d1bcbf2a8f976b5029685d095425930.JPG?1623737903",
+    "location": {
+      "id": 213,
+      "lat": 28.649903,
+      "lng": 77.123406,
+      "distance": 8.399999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.4 km Rajouri Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 768",
+      "revenue": 768
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 58,865 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d830"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 12,
+    "car_id": 20376,
+    "name": "Amaze",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/8f743fcc8af6670e2ddefe59f69e98848d95ef2c.png?1584526224",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/8f743fcc8af6670e2ddefe59f69e98848d95ef2c.png?1584526224",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 8.600000381469727,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.6 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,233",
+      "revenue": 1233
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 46,991 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d831"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 148,
+    "car_id": 18119,
+    "name": "Redi-GO",
+    "brand": "Datsun",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/505efec88be6f25bb3ffabbd6c6107629c88e169.jpg?1621260721",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/505efec88be6f25bb3ffabbd6c6107629c88e169.jpg?1621260721",
+    "location": {
+      "id": 6130,
+      "lat": 28.609317,
+      "lng": 77.13698,
+      "distance": 8.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.7 km Delhi_Cantonment"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 974",
+      "revenue": 974
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 14,770 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d833"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 197,
+    "car_id": 19964,
+    "name": "Ciaz",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/0f9289bfae8401465ba95cca701e3732cc7b4022.JPG?1626670687",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/0f9289bfae8401465ba95cca701e3732cc7b4022.JPG?1626670687",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 8.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "8.9 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,314",
+      "revenue": 1314
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 30,412 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d834"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 162,
+    "car_id": 16466,
+    "name": "Santro",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/aac05ee37980c8d94e9657bc8ddea29312b0e6ae.jpg?1620384508",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/aac05ee37980c8d94e9657bc8ddea29312b0e6ae.jpg?1620384508",
+    "location": {
+      "id": 261,
+      "lat": 28.590959,
+      "lng": 77.296874,
+      "distance": 9.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.2 km Mayur_Vihar"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 941",
+      "revenue": 941
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (6) · 19,603 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d835"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 200,
+    "car_id": 15906,
+    "name": "Swift Dzire",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d10744a3ba2e066859e9114e3101d7b847a0a43e.JPG?1638612841",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d10744a3ba2e066859e9114e3101d7b847a0a43e.JPG?1638612841",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 9.300000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.3 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,184",
+      "revenue": 1184
+    },
+    "accessories": [
+      "Automatic",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.9 (18) · 23,958 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d836"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 447,
+    "car_id": 18626,
+    "name": "Alto K10 VXI",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6fe726d62a5070c816baf80a0cd576b6271e91d4.JPG?1639383445",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/6fe726d62a5070c816baf80a0cd576b6271e91d4.JPG?1639383445",
+    "location": {
+      "id": 97,
+      "lat": 28.546095,
+      "lng": 77.133564,
+      "distance": 9.399999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.4 km Mahipalpur Bypass Road (Opposite CISF Gate, Near Fauji Dhaba )"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 783",
+      "revenue": 783
+    },
+    "accessories": [
+      "Automatic",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 27,932 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d837"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 28,
+    "car_id": 17602,
+    "name": "Baleno Diesel",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/96a302e568c38651107569db39aec596443c8d6b.png?1584525890",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/96a302e568c38651107569db39aec596443c8d6b.png?1584525890",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 9.399999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.4 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 803",
+      "revenue": 803
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 70,688 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d839"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 144,
+    "car_id": 18177,
+    "name": "Amaze 1.2V",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c1c7c50920ee5554049b8e2811630a667f5eef2d.jpg?1619086336",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/c1c7c50920ee5554049b8e2811630a667f5eef2d.jpg?1619086336",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 9.399999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.4 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,171",
+      "revenue": 1171
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 13,959 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d83a"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 253,
+    "car_id": 17930,
+    "name": "Mobilio",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/fd85b09be071dba64376a2c84edc62a195df6ff3.JPG?1639728465",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/fd85b09be071dba64376a2c84edc62a195df6ff3.JPG?1639728465",
+    "location": {
+      "id": 101,
+      "lat": 28.559056,
+      "lng": 77.245528,
+      "distance": 9.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.7 km East of Kailash"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 958",
+      "revenue": 958
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 70,580 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d83b"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 242,
+    "car_id": 18095,
+    "name": "Jazz",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/fe568327fc512128fe481b30b2b34104a57da6b9.JPG?1631509847",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/fe568327fc512128fe481b30b2b34104a57da6b9.JPG?1631509847",
+    "location": {
+      "id": 358,
+      "lat": 28.638519,
+      "lng": 77.360551,
+      "distance": 9.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.8 km Indirapuram "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,437",
+      "revenue": 1437
+    },
+    "accessories": [
+      "Automatic",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 20,775 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d83c"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 2,
+    "car_id": 19497,
+    "name": "Scorpio",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "location": {
+      "id": 5269,
+      "lat": 28.500605,
+      "lng": 77.287962,
+      "distance": 9.800000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.8 km Pul Pehlad Pur ( Near Tuglakabad)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,150",
+      "revenue": 1150
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 69,639 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d83d"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 208,
+    "car_id": 19830,
+    "name": "City",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/73df93edaf19fd1bab3d070a126b3dd583992c6e.jpg?1640671149",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/73df93edaf19fd1bab3d070a126b3dd583992c6e.jpg?1640671149",
+    "location": {
+      "id": 213,
+      "lat": 28.649903,
+      "lng": 77.123406,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Rajouri Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,540",
+      "revenue": 1540
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 41,389 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d83f"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 139,
+    "car_id": 20817,
+    "name": "Suzuki XL6 Petrol",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d4ed67c506efdcac3cf25cabff555c095a463990.jpg?1617089835",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/d4ed67c506efdcac3cf25cabff555c095a463990.jpg?1617089835",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 9.899999618530273,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "9.9 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,381",
+      "revenue": 1381
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 5,767 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d840"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 2,
+    "car_id": 20570,
+    "name": "Scorpio",
+    "brand": "Mahindra",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/b220083c5126580866063dddfe3aa56c9b5295ad.png?1584526472",
+    "location": {
+      "id": 331,
+      "lat": 28.569103,
+      "lng": 77.328446,
+      "distance": 10.199999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.2 km Noida Sec-28 ( Opp GIP Gate No. 2  )"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,437",
+      "revenue": 1437
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 48,294 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d841"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 141,
+    "car_id": 18888,
+    "name": "Celerio (Petrol)",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/67ff26f4a0d5658901058b411ef69896b763d646.jpg?1640674355",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/67ff26f4a0d5658901058b411ef69896b763d646.jpg?1640674355",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 10.300000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.3 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 974",
+      "revenue": 974
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 20,087 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d842"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 205,
+    "car_id": 17587,
+    "name": "Brio",
+    "brand": "Honda",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/48a25359df2c13eb471e1ea16cada9d9f1e31363.JPG?1627378590",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/48a25359df2c13eb471e1ea16cada9d9f1e31363.JPG?1627378590",
+    "location": {
+      "id": 5269,
+      "lat": 28.500605,
+      "lng": 77.287962,
+      "distance": 10.300000190734863,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.3 km Pul Pehlad Pur ( Near Tuglakabad)"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 926",
+      "revenue": 926
+    },
+    "accessories": [
+      "Manual",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (8) · 28,784 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d843"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 408,
+    "car_id": 18941,
+    "name": "Avventura 1.3 Multijet Emotion",
+    "brand": "Fiat",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/e3bbe27c46ac3cc7807824701993928738c02f56.JPG?1638017971",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/e3bbe27c46ac3cc7807824701993928738c02f56.JPG?1638017971",
+    "location": {
+      "id": 337,
+      "lat": 28.706629,
+      "lng": 77.190706,
+      "distance": 10.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.5 km Model Town"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,117",
+      "revenue": 1117
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 33,984 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d845"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 217,
+    "car_id": 19893,
+    "name": "Lodgy",
+    "brand": "Renault",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/152bb8c1eb9fa1696e8a25f2244168dbc8ef8f48.JPG?1629088309",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/152bb8c1eb9fa1696e8a25f2244168dbc8ef8f48.JPG?1629088309",
+    "location": {
+      "id": 157,
+      "lat": 28.52839,
+      "lng": 77.205037,
+      "distance": 10.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.5 km Malviya Nagar "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,549",
+      "revenue": 1549
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "7 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 25,023 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d846"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 220,
+    "car_id": 19378,
+    "name": "Beat",
+    "brand": "Chevrolet",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/abfaca093c82ca9fcbe8b117292cf59178c0fe76.JPG?1640767394",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/abfaca093c82ca9fcbe8b117292cf59178c0fe76.JPG?1640767394",
+    "location": {
+      "id": 5551,
+      "lat": 28.684989,
+      "lng": 77.345916,
+      "distance": 10.5,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.5 km Dilshad Garden"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 909",
+      "revenue": 909
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 17,754 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d847"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 249,
+    "car_id": 18786,
+    "name": "Grand i10",
+    "brand": "Hyundai",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/68f39c9fb38f37083da5a4b181bcc5e7cc1ed82f.jpg?1640671986",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/68f39c9fb38f37083da5a4b181bcc5e7cc1ed82f.jpg?1640671986",
+    "location": {
+      "id": 337,
+      "lat": 28.706629,
+      "lng": 77.190706,
+      "distance": 10.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.7 km Model Town"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,133",
+      "revenue": 1133
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 50,160 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d848"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 135,
+    "car_id": 19066,
+    "name": "Celerio AT",
+    "brand": "Maruti",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bb5d7ad99cf9ee445440a652489069fb17d0712e.jpg?1640674410",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/bb5d7ad99cf9ee445440a652489069fb17d0712e.jpg?1640674410",
+    "location": {
+      "id": 6130,
+      "lat": 28.609317,
+      "lng": 77.13698,
+      "distance": 10.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.7 km Delhi_Cantonment"
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 972",
+      "revenue": 972
+    },
+    "accessories": [
+      "Automatic",
+      "Petrol",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "4.0 · 18,308 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+},{
+  "_id": {
+    "$oid": "61eacfe1f2ee2c426f98d849"
+  },
+  "type": "CAR",
+  "car_data": {
+    "cargroup_id": 68,
+    "car_id": 17403,
+    "name": "Nexon",
+    "brand": "Tata",
+    "url": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/a8c9309fefc057459e0955d0a5f54340b7cd7bcb.png?1584524824",
+    "url_large": "https://s3-ap-southeast-1.amazonaws.com/zoomcar/photographs/original/a8c9309fefc057459e0955d0a5f54340b7cd7bcb.png?1584524824",
+    "location": {
+      "id": 1811,
+      "lat": 28.692349,
+      "lng": 77.292649,
+      "distance": 10.699999809265137,
+      "hd_ids": [],
+      "terminal_ids": [],
+      "hd_unavailable_reason": "LEAD_TIME",
+      "zoom_air_unvailable_reason": "FLEET_UNAVAILABLE",
+      "text": "10.7 km Shahdara "
+    },
+    "pricing": {
+      "id": "1011",
+      "flexi_name": "FLEX_11",
+      "payable_amount": "₹ 1,248",
+      "revenue": 1248
+    },
+    "accessories": [
+      "Manual",
+      "Diesel",
+      "5 Seats"
+    ],
+    "messages": [
+      {
+        "text": "5.0 (8) · 59,398 kms driven",
+        "icon_url": "https://zoomcar-assets.zoomcar.com/images/original/b04593cd90f850d14ed46ed739b0371457ef6834.png?1633947533"
+      }
+    ]
+  }
+}]

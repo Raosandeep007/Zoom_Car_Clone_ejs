@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <script
+      src="https://kit.fontawesome.com/eb173574ae.js"
+      crossorigin="anonymous"
+    ></script>
+    <title>Enter OTP</title>
+    <link rel="stylesheet" href="http://localhost:2345/css/users/otp.css" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="http://localhost:2345/img/fav.jpg"
+    />
+  </head>
+  <body onload="users(`<%= JSON.stringify(user[0]) %>`)">
+    <div id="mainDiv">
+      <i
+        class="fas fa-arrow-left"
+        onclick="location.href='Signup Main.html'"
+      ></i>
+      <div class="heading"><h2>Enter 6-digit OTP</h2></div>
+      <form action="/home">
+        <input
+          id="EO"
+          class="otp"
+          type="number"
+          placeholder="Enter your OTP here"
+        />
+        <p class="smltxt" id="mobile_no"></p>
+        <input
+          onclick="submit_otp()"
+          class="btn"
+          type="submit"
+          value="CONTINUE"
+        />
+      </form>
+    </div>
+  </body>
+</html>
+<script>
+  let userData = [];
+  function users(user) {
+    userData.push(JSON.parse(user));
+    console.log("userData:", userData);
+    localStorage.removeItem("info");
+    localStorage.setItem("info", JSON.stringify(userData));
+    display(userData);
+  }
+
+  let mobile_p = document.getElementById("mobile_no");
+  function display(data) {
+    data.forEach((user) => {
+      mobile_p.innerText = `OTP was sent to ${user.mobile}`;
+    });
+  }
+
+  function submit_otp() {
+    let otp_input = document.getElementById("EO").value;
+  }
+</script>

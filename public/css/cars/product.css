@@ -1,0 +1,365 @@
+body {
+  background-color: rgb(245, 245, 245);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+}
+#cimg {
+  width: 170px;
+  height: 90px;
+  margin-top: 10px;
+}
+#rdiv {
+  font-size: 12px;
+  color: rgb(102, 102, 102);
+  border-top: 1px solid rgb(221, 221, 221);
+  display: grid;
+  grid-template-columns: 18px 200px;
+}
+
+#rimg {
+  margin-top: 6px;
+  width: 12px;
+}
+#cardproduct {
+  height: 120px;
+  background-color: white;
+  line-height: 0px;
+  margin-top: 8px;
+  display: grid;
+  grid-template-columns: 17% 70% 12%;
+}
+#carsdiv {
+  border-radius: 7px;
+  height: 100vh;
+  overflow: scroll;
+}
+#carsdiv::-webkit-scrollbar {
+  display: none;
+}
+#filters {
+  font-size: 15px;
+  height: 70vh;
+  background-color: white;
+  border-radius: 7px;
+  padding-left: 10px;
+  padding-top: 5px;
+  display: grid;
+  gap: 10px;
+}
+#container {
+  display: grid;
+  grid-template-columns: 20vw 70vw;
+  gap: 20px;
+  padding-left: 50px;
+  padding-top: 90px;
+}
+.have {
+  background-color: whitesmoke;
+  border-radius: 7x;
+  border: 1px solid rgb(224, 224, 224);
+  width: 95%;
+  height: 35px;
+}
+.have > div {
+  margin: auto;
+  margin-left: 10px;
+  height: 80%;
+  width: 87%;
+  margin-top: 3px;
+}
+.headingside {
+  font-size: 16px;
+  margin-bottom: 3px;
+}
+.twodiv {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+.thdiv {
+  display: grid;
+  grid-template-columns: 32% 32% 32%;
+}
+.twodiv,
+.thdiv {
+  text-align: center;
+}
+.onediv > div {
+  margin-left: 6%;
+  padding-top: 1px;
+  background-color: green;
+  color: white;
+  text-align: center;
+}
+.btnside {
+  width: 100%;
+  background-color: transparent;
+  border: none;
+}
+.btnside:focus {
+  background-color: green;
+  color: white;
+}
+#add,
+#date {
+  height: 40px;
+  margin-bottom: 5px;
+  border: 1px solid green;
+  border-radius: 7px;
+  background-color: white;
+}
+#add {
+  padding-top: 10px;
+  padding-left: 10px;
+}
+#loc {
+  background-color: rgb(233, 233, 233);
+  height: 10px;
+  padding-top: 10px;
+}
+#accessories,
+#loc {
+  font-size: 12px;
+  color: rgb(111, 111, 111);
+}
+#carname,
+#pricecar {
+  font-weight: normal;
+}
+#pricebtndiv {
+  margin-left: 10px;
+  display: grid;
+  grid-template-rows: 60px 50px;
+}
+#booknow {
+  border: 1px solid green;
+  border-radius: 5px;
+  background-color: transparent;
+  height: 30px;
+  width: 80%;
+}
+#oneproduct {
+  text-decoration: none;
+  color: black;
+}
+#booknow:hover {
+  background-color: green;
+  color: white;
+}
+#datediv {
+  margin-left: 8px;
+  display: grid;
+  margin-top: 7px;
+  grid-template-columns: 165px 25px 170px;
+  column-gap: 33%;
+}
+#datearr {
+  margin-top: 5px;
+  color: gray;
+}
+/* ========================== */
+#navbar_container {
+  position: fixed;
+  width: 100%;
+}
+
+#navi {
+  border: 1px solid white;
+  height: 70px;
+  background-color: black;
+  color: white;
+  display: flex;
+}
+#navlogo {
+  display: flex;
+}
+
+#imglogo > img {
+  margin-left: 10%;
+  margin-top: 18px;
+}
+#menu > i {
+  margin-left: 7px;
+  padding: 30px 8px 10px 20px;
+  vertical-align: top;
+  color: whitesmoke;
+}
+#navlabel {
+  margin-left: 27%;
+  border: 1px solid white;
+  height: 40px;
+  display: flex;
+  justify-content: space-around;
+  width: 600px;
+  margin-top: 10px;
+  border: none;
+}
+#navlabel > label {
+  font-size: 19px;
+  font-weight: bolder;
+  margin: auto;
+}
+.navlabels {
+  text-decoration: none;
+  color: whitesmoke;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+}
+
+@import url("https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap");
+
+.btn {
+  position: relative;
+  top: 15px;
+  left: 20px;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background: black;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: left 0.3s ease;
+}
+.btn.click {
+  left: 20px;
+}
+.btn span {
+  color: white;
+  font-size: 20px;
+  line-height: 45px;
+}
+.btn.click span:before {
+  content: "\f00d";
+}
+.sidebar {
+  position: fixed;
+  width: 350px;
+  height: 100%;
+  left: -550px;
+  transition: left 0.3s ease;
+  color: black;
+  margin-top: -0.5%;
+  user-select: none;
+  box-sizing: border-box;
+  font-family: "Poppins", sans-serif;
+}
+
+.sidemenu > a {
+  text-decoration: none;
+
+  padding: 30px;
+  font-size: 16px;
+  color: rgb(31, 31, 31);
+}
+.gap {
+  height: 60px;
+  padding: 10px;
+  background-color: white;
+}
+.icon {
+  color: black;
+  width: 30px;
+  display: inline-block;
+}
+#lookgray {
+  background-color: rgb(229, 232, 236);
+}
+
+.sidebar.show {
+  left: 0px;
+}
+
+nav ul {
+  background: white;
+  color: black;
+  height: 100%;
+  width: 100%;
+  list-style: none;
+  border: 1px solid darkgray;
+  /* border-radius: 10px; */
+}
+nav ul li {
+  line-height: 60px;
+  border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+nav ul li:last-child {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.05);
+}
+nav ul li a {
+  position: relative;
+
+  text-decoration: none;
+  font-size: 18px;
+  padding-left: 40px;
+  font-weight: 500;
+  display: block;
+  width: 100%;
+  border-left: 3px solid transparent;
+}
+
+nav ul li a:hover {
+  background: #1e1e1e;
+}
+nav ul ul {
+  position: static;
+  display: none;
+}
+nav ul .feat-show.show {
+  display: block;
+}
+nav ul .serv-show.show1 {
+  display: block;
+}
+nav ul ul li {
+  line-height: 42px;
+  border-top: none;
+}
+nav ul ul li a {
+  font-size: 17px;
+
+  padding-left: 80px;
+}
+nav ul li.active ul li a {
+  background: #1b1b1b;
+  border-left-color: transparent;
+}
+nav ul ul li a:hover {
+  background: #1e1e1e !important;
+}
+nav ul li a span {
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  font-size: 22px;
+  transition: transform 0.4s;
+}
+nav ul li a span.rotate {
+  transform: translateY(-50%) rotate(-180deg);
+}
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  color: #202020;
+  z-index: -1;
+  text-align: center;
+}
+.content .header {
+  font-size: 45px;
+  font-weight: 600;
+}
+.content p {
+  font-size: 30px;
+  font-weight: 500;
+}
+#profilea {
+  color: white;
+  font-size: 30px;
+}
+#profilepicappen {
+  margin-top: 5px;
+  margin-left: -50px;
+}

@@ -1,0 +1,158 @@
+#container {
+    /* border: 1px solid red; */
+    width: 80%;
+    height: 1170px;
+    margin-left: 10%;
+}
+
+#container #topcontentbox{
+    border: 1px solid rgb(245, 245, 245);
+    margin-top: 1%;
+    width: 100%;
+    height: 200px;
+    background-color: rgb(245, 245, 245);
+}
+
+#topcontentbox h2{
+    font-family: IBM Plex Sans;
+    margin-top: 5%;
+}
+
+#topcontentbox p{
+    font-family: IBM Plex Sans;
+    margin-top: 1%;
+    font-size: 23px;
+    color: rgb(102, 102, 102);
+}
+
+.image{
+    /* border: 1px solid green; */
+    width: 95%;
+    height: 100px;
+    margin-left: 1%;
+    margin-top: 4%;
+}
+
+.image img{
+    width: 100%;
+}
+
+#container #mainbox{
+    /* border: 1px solid blue; */
+    margin-top: 2%;
+    margin-left: 4%;
+    width: 90%;
+    height: 400px;
+}
+/* 
+#mainbox #div1{
+    display: inline-block;
+    position: static;
+    border: 1px solid rebeccapurple;
+    margin-top: 1%;
+    margin-left: 1%;
+    width: 46%;
+    height: 380px;
+}
+
+#mainbox #div2{
+    display: inline-block;
+    border: 1px solid red;
+    margin-top: 1%;
+    width: 45%;
+    height: 380px;
+    margin-left: 7%;
+    float: right;
+}  */
+
+
+ .input{
+    border: 1px solid black;
+    width: 100%;
+    height: 100px;
+    margin-top: 2%;
+    /* margin-right: 20%; */
+    font-size: 25px;
+    font-family: IBM Plex Sans;
+    border-color: rgb(16, 163, 16);
+    border-radius: 3%;
+}
+
+/* #div1 #input1{
+    position: relative;
+   border: 1px solid green;
+    width: 25%;
+    height: 110px;
+} */
+/* 
+.input{
+    border: 1px solid green;
+    margin-top: 6%;
+    width: 100%;
+    height: 100px;
+    border-radius: 5%;
+} */
+
+#namebox{
+    margin-left: 13%;
+}
+#pincode{
+    margin-left: 13%;
+}
+.data{
+    margin-left: 13%;
+}
+
+#dropbox {
+    border-color: rgb(16, 163, 16);
+}
+#city{
+    /* border: 1px solid red; */
+    width: 60%;
+    height: 200px;
+    margin-left: 4%;
+    margin-top: 4%;
+}
+
+#city h3{
+    margin-top: 2%;
+    margin-left: 2%;
+}
+
+#mainform{
+    /* border: 1px solid red; */
+    margin-top: 3%;
+}
+
+#dropbox{
+    font-size: 30px;
+    height: 70px;
+}
+.value{
+    font-size: 30px;
+    /* overflow-y: scroll; */
+}
+
+.button{
+    /* border: 1px solid green; */
+    border-radius: 5%;
+    width: 15%;
+    height: 30px;
+    margin-top: 2%;
+    height: 50px;
+    background-color: rgb(16, 163, 16);
+    margin-left: 80%;
+}
+
+.button h3{
+    color: red;
+}
+
+
+#nextbutton{
+    width: 15%;
+    height: 50px;
+    float: right;
+    background-color: rgb(16, 163, 16);
+    font-size: 25px;
+}

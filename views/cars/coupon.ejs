@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Coupon</title>
+    <script
+      src="https://kit.fontawesome.com/368c5c5b09.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="http://localhost:2345/css/cars/coupon.css" />
+    <link
+      rel="icon"
+      type="image/png"
+      href="http://localhost:2345/img/fav.jpg"
+    />
+  </head>
+
+  <body onload="allcars(`<%= JSON.stringify(car) %>`)">
+    <nav id="nav" class="black">
+      <div>
+        <a href="#" onclick="checkoutback()" class="black"
+          ><i id="arr" class="fas fa-arrow-left"></i
+        ></a>
+      </div>
+      <div id="offertag">Promotional Offers</div>
+    </nav>
+    <div id="container">
+      <div class="have">Have A coupon code ?</div>
+      <div id="input">
+        <input type="text" id="enter" placeholder="Enter Promo Code" />
+        <button id="apply">Apply</button>
+      </div>
+      <div class="have">Or choose an offer from below.</div>
+      <img src="http://localhost:2345/img/offer.png" id="offimg" alt="" />
+    </div>
+  </body>
+</html>
+<script src="http://localhost:2345/js/cars/coupon.js"></script>

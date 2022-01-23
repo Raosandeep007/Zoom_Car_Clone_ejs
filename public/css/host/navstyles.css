@@ -1,0 +1,220 @@
+#navbar_container{
+  border: 2px solid white;
+    /* position: fixed; */
+    width:100%;
+    /* margin-top: 1%; */
+}
+
+#navi{
+    border:1px solid white;
+    height:100px;
+    background-color: black;
+    color:white;
+    display:flex;
+   
+   
+}
+#navlogo{
+    display:flex;
+
+}
+
+#imglogo>img{
+margin-left: 10%;
+margin-top: 18px;
+
+
+}
+#menu>i {
+
+    margin-left: 7px;
+    padding:30px 8px 10px 20px;
+    vertical-align: top;
+    color:whitesmoke;
+ 
+
+}
+#navlabel{
+    margin-left: 27%;
+    border:1px solid red;
+    height:40px;
+    display:flex;
+    justify-content: space-around;
+    width:600px;
+    margin-top: 10px;
+    border:none;
+    
+    
+}
+#navlabel>label{
+    font-size:19px;
+    font-weight:bolder;
+    /* margin:auto; */
+   margin-top: 2%;
+  /* margin-left: 5%; */
+  /* gap: 51%; */
+}
+.navlabels{
+    text-decoration: none;
+    color:whitesmoke;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  user-select: none;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+.btn{
+  position:relative;
+  top: 15px;
+  left: 20px;
+  height: 40px;
+  width: 40px;
+  text-align: center;
+  background:black;
+  border-radius: 3px;
+  cursor: pointer;
+  transition: left 0.3s ease;
+}
+.btn.click{
+  left: 20px;
+}
+.btn span{
+  color: white;
+  font-size: 20px;
+  line-height: 45px;
+}
+.btn.click span:before{
+  content: '\f00d';
+}
+.sidebar{
+  position: fixed;
+  width: 400px;
+  height: 100%;
+  left: -550px;
+  background: white;
+  transition: left 0.4s ease;
+  color:black;
+ z-index: 1000;
+}
+
+.sidemenu1>a{
+    text-decoration: none;
+ 
+    padding:30px;
+    font-size: 16px;
+    color:rgb(31,31,31);
+    
+}
+.gap1{
+   
+    height:60px;
+   padding:10px;
+    background-color:white;
+}
+.icon{
+    color: black;
+    width: 30px;
+    display: inline-block;
+}
+#lookgray{
+    background-color: rgb(229,232,236);
+}
+
+.sidebar.show{
+  left: 0px;
+} 
+
+nav ul{
+  background:white;
+  color:black;
+  height: 100%;
+  width: 100%;
+  list-style: none;
+  border:1px solid darkgray;
+  border-radius: 10px;
+}
+nav ul li{
+  line-height: 60px;
+  border-top: 1px solid rgba(255,255,255,0.1);
+}
+nav ul li:last-child{
+  border-bottom: 1px solid rgba(255,255,255,0.05);
+}
+nav ul li a{
+  position: relative;
+ 
+  text-decoration: none;
+  font-size: 18px;
+  padding-left: 40px;
+  font-weight: 500;
+  display: block;
+  width: 100%;
+  border-left: 3px solid transparent;
+}
+
+nav ul li a:hover{
+  background: #1e1e1e;
+ 
+}
+nav ul ul{
+  position: static;
+  display: none;
+}
+nav ul .feat-show.show{
+  display: block;
+}
+nav ul .serv-show.show1{
+  display: block;
+}
+nav ul ul li{
+  line-height: 42px;
+  border-top: none;
+}
+nav ul ul li a{
+  font-size: 17px;
+
+  padding-left: 80px;
+}
+nav ul li.active ul li a{
+
+  background: #1b1b1b;
+  border-left-color: transparent;
+}
+nav ul ul li a:hover{
+
+  background: #1e1e1e!important;
+}
+nav ul li a span{
+  position: absolute;
+  top: 50%;
+  right: 20px;
+  transform: translateY(-50%);
+  font-size: 22px;
+  transition: transform 0.4s;
+}
+nav ul li a span.rotate{
+  transform: translateY(-50%) rotate(-180deg);
+}
+.content{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+  color: #202020;
+  z-index: -1;
+  text-align: center;
+}
+.content .header{
+  font-size: 45px;
+  font-weight: 600;
+}
+.content p{
+  font-size: 30px;
+  font-weight: 500;
+}
+

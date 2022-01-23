@@ -1,0 +1,77 @@
+body {
+  background-color: rgb(245, 245, 245);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+    Arial, sans-serif;
+  padding: 0px;
+  margin: 0px;
+  background-color: white;
+}
+a {
+  text-decoration: none;
+  color: white;
+}
+#arr {
+  margin-top: 20px;
+  margin-left: 15px;
+  font-size: 20px;
+  text-decoration: none;
+}
+#nav {
+  width: 100vw;
+  height: 60px;
+  margin-top: 0px;
+  background-color: black;
+  position: fixed;
+  display: grid;
+  grid-template-columns: 40px 400px;
+  color: white;
+}
+#ndate {
+  margin-top: 8px;
+}
+#footerdat {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 70px;
+  background-color: white;
+  position: fixed;
+  box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+  padding-top: 30px;
+}
+
+#checkoutbtn {
+  background-color: green;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  width: 50%;
+  height: 40px;
+  margin-left: 24%;
+}
+#container {
+  width: 600px;
+  padding-top: 58px;
+  margin: auto;
+  padding-left: 10px;
+}
+.ptype,
+.htype {
+  display: grid;
+  grid-template-columns: 300px 90px;
+  gap: 40%;
+}
+.ptype {
+  border-bottom: 1px solid rgb(193, 193, 193);
+  border-top: 1px solid rgb(213, 213, 213);
+}
+.htype {
+  font-weight: 700;
+}
+#datediv {
+  display: grid;
+  grid-template-columns: 165px 25px 170px;
+}
+#datearr {
+  margin-top: 5px;
+}

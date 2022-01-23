@@ -1,0 +1,275 @@
+body{
+    background-color: #ffffff;
+ } 
+ 
+ #nav{
+     max-width : 100% ; 
+     height : 80px ; 
+     /* border : 1px solid red ; */
+     background-color: black;
+ }  
+
+ #img1{
+     max-width : 1440px ;
+     height : 510px ;
+     /* border : 1px solid red; */
+     background-image: url(https://www.zoomcar.com/img/bg-desktop.png);
+     background-size: 100% 100%; 
+ }  
+   #pro{ 
+        width : 80%;
+        /* border : 1px solid blue ;  */
+        margin : auto ; 
+       display : grid ;
+       grid-template-columns: 48% 48%; 
+       grid-template-rows:  230px 230px; 
+       justify-content :space-evenly;
+       grid-gap : 3% ; 
+       margin-top: 70px;
+      
+   }  
+   #pro2{ 
+        width : 80%;
+        /* border : 1px solid blue ;  */
+        margin : auto ; 
+        margin-top: 50px ;
+     }  
+
+   #pro>div{
+     /* border : 1px solid red ;  */
+     border-radius: 5px;
+   } 
+    img{
+        width : 100% ; 
+        height : 100% ; 
+        border-radius: 5px;
+     } 
+     #pro3{
+         max-width: 100%;
+         height : 400px ; 
+         background-color: #f5f5f5;
+         border : 1px solid #f5f5f5;
+         margin-top: 35px; ;
+     }   
+   #pro3>div{
+       width : 75%; 
+       height : 130px ; 
+       background-color: white;
+       margin : auto ; 
+       margin-top: 10%;
+       border-radius: 10px;
+       display : flex; 
+       justify-content :space-evenly
+   }   
+   .proimg{
+       border-radius: 45%;
+   }
+    #refer>div{
+        /* border : 1px solid red ;  */
+        height: 90%;;
+        margin-top: 5px;
+     } 
+     .referpara{
+         font-weight: bolder;
+     } 
+     #pro4{
+          max-width: 100%;
+          height : 300px; 
+          display : flex ; 
+          /* border : 1px solid red ;  */
+     }  
+
+
+      #pro4>div{
+          width : 25% ; 
+          height : 170px ;  
+          margin-top: 5% ; 
+         margin-left: 20px;
+         
+        
+      }  
+     
+      #pro4>div:nth-child(1){
+          margin-left: 10%;
+          margin-top: 3.7%;
+        
+      }  
+      #lower{
+          background-color: #f5f5f5;;
+      }
+       #discription{
+          max-width: 75%;
+          margin : auto;
+          /* border : 1px solid red ;  */
+          line-height: 17px;
+          font-size: 14px;
+       } 
+      #discription>h3{
+          margin-top: 40px;;
+      } 
+      .copyright{
+         text-align: center;
+         margin-top: 40px;;
+      }
+     #nav{
+         display : flex;
+         justify-content :start ;
+     } 
+     #nav>div:nth-child(1){
+         /* border : 1px solid white; */
+         width : 5%  
+        
+     } 
+     #nav>div:nth-child(2){
+         /* border : 1px solid yellow; */
+         width :20% ;
+     } 
+     #nav>div:nth-child(3){
+         /* border : 1px solid white; */
+         width : 75%;
+         
+    } 
+     #leftnav>img{
+        width : 80% ;
+        height : 60% ;
+        margin-top: 15px; 
+     }  
+     #rightnav>ul{
+         display : flex; 
+         float: right;
+        
+     }
+     li{
+         color : white ;
+         margin-right: 70px;;
+         font-size: 20px;
+         font-weight: bolder;
+         margin-top: 14px;
+         list-style: none;
+         /* border: 1px solid white; */
+     }  
+     li:nth-child(3){
+       padding-bottom: 20px;
+       /* width : 180px;  */
+       margin-top: 0px;
+     }
+
+     #zi{
+         color:  white;
+         font-size: 40px;
+         margin-left: 10px;
+       border : 1px solid white ; 
+     }  
+      #about{ 
+        text-align: center; 
+         display : block ; 
+        
+      }   
+      #about select{
+           border : none;
+           width : 100% ; 
+           text-align: center;
+         
+     } 
+     #about select option{
+         line-height: 30px ; 
+         font-size: 20px ; 
+     }
+   
+      /* #about ul li a{
+          list-style: none;
+          text-decoration: none;
+          color :gray ; 
+          font-size: 16px ; 
+       }   
+
+       #about ul{
+           display : block ; 
+          position : absolute  ;  
+          top : 60px ;  
+          display : none ; 
+
+       }  
+       #about ul li{
+            width : 150px ; 
+           float : none ; 
+           display : list-item ; 
+           position : relative  ; 
+       } */
+       #img1{
+         margin: 0;
+         padding : 0 ; 
+         border-top: 1px solid gray;
+       }   
+      #img1>a{
+          text-decoration: none;
+          color : black ; 
+      }
+      #addresh{ 
+        width : 395px ;  
+        margin-left: 30% ;
+        margin-top: 300px;
+          border : none ; 
+          padding: 15px ;
+          box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px; 
+          background-color: white ; ;
+          display : flex ;
+          justify-content :space-between;
+          border-radius: 5px ;
+         }#dot{
+             width : 10px ; 
+             height : 10px ; 
+             margin-top: 5px;;
+             border-radius: 50%;
+             background-color: green;
+         }
+         #text1{
+             width: 90% ; 
+             height : 95%; 
+             /* border : 1px solid red ;  */
+         } 
+         #schedule{
+             width : 400px ;  
+        margin-left: 30% ;
+        margin-top: 10px;
+          border : none ; 
+          padding: 12px ;
+          box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px; 
+          background-color: white ; ;
+          display : flex ;
+          justify-content :space-between;
+          border-radius: 5px ;
+         }  
+
+
+          #schedule>i{
+              color : black ; 
+              font-size: 25px ; 
+              /* border : 1px solid red ;  */
+              margin-left: 4px ;;
+          } 
+           #date{
+             width: 90% ; 
+             height : 95%; 
+             /* border : 1px solid red ; */
+              /* text-overflow :ellipsis ;  */
+           }
+      
+        #btn2{
+         margin-left: 30% ;
+        
+            background-color:#10a310 ;
+            color : white;  
+            width : 400px ; 
+            margin-top : 10px; 
+            border : none ; 
+            padding: 20px ; 
+            border-radius: 5px ; 
+            box-shadow: rgba(60, 64, 67, 0.3) 0px 1px 2px 0px, rgba(60, 64, 67, 0.15) 0px 1px 3px 1px;
+        } 
+          #btn2>a{
+              text-decoration: none;
+              color : white ; 
+              font-size: 20px;
+          }
+        

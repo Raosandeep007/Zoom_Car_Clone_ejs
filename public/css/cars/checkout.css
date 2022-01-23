@@ -1,0 +1,224 @@
+body {
+    background-color: rgb(245, 245, 245);
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica,
+      Arial, sans-serif;
+    padding: 0px;
+    margin: 0px;
+    background-color: white;
+  }
+  
+  #arr {
+    margin-top: 20px;
+    margin-left: 15px;
+    font-size: 20px;
+    text-decoration: none;
+  }
+  #nav {
+    width: 100vw;
+    height: 60px;
+    margin-top: 0px;
+    background-color: rgb(213, 213, 213);
+    position: fixed;
+    display: grid;
+    grid-template-columns: 40px 400px;
+    color: black;
+  }
+  #ndate {
+    display: none;
+    margin-top: 8px;
+  }
+  
+  #footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 90px;
+    background-color: white;
+    position: fixed;
+    box-shadow: 0 19px 38px rgba(0, 0, 0, 0.3), 0 15px 12px rgba(0, 0, 0, 0.22);
+    line-height: 30px;
+  }
+  a {
+    text-decoration: none;
+    color: black;
+  }
+  #footerdat {
+    margin: auto;
+    padding-top: 5px;
+    width: 700px;
+    height: 90%;
+  }
+  #ao {
+    display: grid;
+    grid-template-columns: 20% 21%;
+    column-gap: 50%;
+    margin-left: 10%;
+  }
+  #checkoutbtn {
+    background-color: gray;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    width: 80%;
+    height: 40px;
+    margin-left: 10%;
+    cursor: no-drop;
+  }
+  #cimg {
+    margin-top: 8px;
+    width: 130px;
+  }
+  #name_img_acc_div {
+    height: 100px;
+    padding-left: 10px;
+    background-color: rgb(213, 213, 213);
+    display: grid;
+    grid-template-columns: 50% 30%;
+    column-gap: 20%;
+  }
+  #name_acc_div {
+    line-height: 5px;
+  }
+  #accessories {
+    font-size: 12px;
+    color: gray;
+  }
+  
+  #container {
+    height: 1440px;
+    margin: auto;
+    padding-top: 60px;
+    align-items: center;
+    /* border: 1px solid red; */
+    width: 40%;
+  }
+  #timestart,
+  #timeend {
+    height: 50px;
+  }
+  #ratingdivappend {
+    display: grid;
+    grid-template-columns: 25px 200px;
+  }
+  #rimg {
+    margin-top: 17px;
+    width: 20px;
+  }
+  #carstatus {
+    padding-left: 15px;
+  }
+  #sanitized {
+    background-color: rgb(216, 216, 250);
+    color: blue;
+    font-size: 13px;
+    text-align: center;
+    margin-right: 20px;
+    border-radius: 5px;
+    height: 30px;
+    padding-top: 8px;
+  }
+  #home > h2 {
+    font-weight: 500;
+    font-size: 20px;
+  }
+  #hd {
+    display: grid;
+    grid-template-columns: 7% 85% 10%;
+  }
+  #hp {
+    line-height: 0px;
+  }
+  #hd > i {
+    margin-top: 15px;
+  }
+  #hp > p {
+    font-size: 12px;
+    color: red;
+  }
+  #hp > h3 {
+    font-weight: 400;
+    color: rgb(169, 169, 169);
+  }
+  #checkbox,
+  #oncheckbox,
+  #checkboxapply {
+    width: 20px;
+    height: 50px;
+  }
+  #addon_div {
+    margin-right: 30px;
+    margin-left: 30px;
+  
+    padding-left: 20px;
+    padding-top: 5px;
+    display: grid;
+    grid-template-columns: 80% 20%;
+    background-color: rgb(182, 182, 182);
+  }
+  #addon_div > a {
+    color: green;
+  }
+  #addon_div > p {
+    font-size: 12px;
+  }
+  #aodiv > h2 {
+    font-weight: 500;
+    font-size: 20px;
+  }
+  #ad {
+    display: grid;
+    grid-template-columns: 7% 85% 10%;
+  }
+  #adhp {
+    line-height: 0px;
+  }
+  #ad > i {
+    margin-top: 15px;
+  }
+  #adhp > p {
+    font-size: 12px;
+    color: gray;
+  }
+  #adhp > h3 {
+    font-weight: 400;
+    font-size: 15px;
+  }
+  #Rbtn {
+    border-radius: 50%;
+    width: 21px;
+    height: 21px;
+    padding: 7px;
+  }
+  #Rbtn::after {
+    background-color: green;
+    color: white;
+  }
+  #imgdam > img {
+    padding-top: 19px;
+    width: 97%;
+  }
+  #adpolicy {
+    display: grid;
+    grid-template-columns: 30px 550px;
+    margin-top: 20px;
+  }
+  #adpolicy > i {
+    padding-top: 10px;
+  }
+  #adpolicybox {
+    display: grid;
+    grid-template-columns: 30px 530px 50px;
+    margin-top: 20px;
+  }
+  #adpolicybox > i {
+    padding-top: 10px;
+  }
+  #datediv {
+    margin-top: -12px;
+    display: grid;
+    grid-template-columns: 165px 25px 170px;
+  }
+  #datearr {
+    margin-top: 5px;
+  }
+  

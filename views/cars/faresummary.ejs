@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>fare summary</title>
+    <link
+      rel="stylesheet"
+      href="http://localhost:2345/css/cars/fare_summary.css"
+    />
+    <link
+      rel="icon"
+      type="image/png"
+      href="http://localhost:2345/img/fav.jpg"
+    />
+  </head>
+  <script
+    src="https://kit.fontawesome.com/368c5c5b09.js"
+    crossorigin="anonymous"
+  ></script>
+
+  <body onload="allcars(`<%= JSON.stringify(car) %>`)">
+    <nav id="nav" class="black">
+      <div>
+        <a href="#" onclick="checkoutback()" class="black"
+          ><i id="arr" class="fas fa-arrow-left"></i
+        ></a>
+      </div>
+      <div id="ndate" class="vis">
+        <div id="carname_div"></div>
+        <div class="toolbar-date" id="datediv">
+          <div id="sta"></div>
+          <i id="datearr" class="fas fa-arrow-left"></i>
+          <div id="end"></div>
+        </div>
+      </div>
+    </nav>
+    <div id="container">
+      <div id="trip" class="ptype">
+        <p>Trip Fare (66.0 KMs without Fule)</p>
+        <p id="amtshow"></p>
+      </div>
+      <div class="ptype">
+        <p>Damage Protection Fee</p>
+        <p>+ ₹92</p>
+      </div>
+      <div class="htype">
+        <h3>Total Fare</h3>
+        <p id="totalamtshow"></p>
+      </div>
+      <div class="ptype">
+        <p>Refundable Deposit</p>
+        <p>+ ₹0</p>
+      </div>
+      <div class="htype">
+        <h3>Final Fare</h3>
+        <p id="finalfare"></p>
+      </div>
+    </div>
+    <div id="footerdat">
+      <button id="checkoutbtn" onclick="payment()"></button>
+    </div>
+  </body>
+</html>
+<script src="http://localhost:2345/js/cars/faresummary.js"></script>
